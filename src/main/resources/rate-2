@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<pages>
+    <page id="1" bbox="0.000,0.000,595.200,841.680" rotate="0">
+        <textbox id="0" bbox="125.280,753.540,419.779,784.628">
+            <textline bbox="125.280,768.548,419.779,784.628">
+                <text font="JTESEW+SimSun" bbox="125.280,768.548,141.360,784.628" colourspace="ICCBased" ncolour="[0]" size="16.080">平</text>
+                <text font="JTESEW+SimSun" bbox="141.601,768.548,157.681,784.628" colourspace="ICCBased" ncolour="[0]" size="16.080">安</text>
+                <text font="JTESEW+SimSun" bbox="157.922,768.548,174.002,784.628" colourspace="ICCBased" ncolour="[0]" size="16.080">百</text>
+                <text font="JTESEW+SimSun" bbox="174.244,768.548,190.324,784.628" colourspace="ICCBased" ncolour="[0]" size="16.080">万</text>
+                <text font="JTESEW+SimSun" bbox="190.565,768.548,206.645,784.628" colourspace="ICCBased" ncolour="[0]" size="16.080">任</text>
+                <text font="JTESEW+SimSun" bbox="206.886,768.548,222.966,784.628" colourspace="ICCBased" ncolour="[0]" size="16.080">我</text>
+                <text font="JTESEW+SimSun" bbox="223.207,768.548,239.287,784.628" colourspace="ICCBased" ncolour="[0]" size="16.080">行</text>
+                <text font="JTESEW+SimSun" bbox="239.528,768.548,255.608,784.628" colourspace="ICCBased" ncolour="[0]" size="16.080">（</text>
+                <text font="JTESEW+SimSun" bbox="255.850,768.548,263.890,784.628" colourspace="ICCBased" ncolour="[0]" size="16.080">2</text>
+                <text font="JTESEW+SimSun" bbox="264.250,768.548,272.290,784.628" colourspace="ICCBased" ncolour="[0]" size="16.080">0</text>
+                <text font="JTESEW+SimSun" bbox="272.650,768.548,280.690,784.628" colourspace="ICCBased" ncolour="[0]" size="16.080">1</text>
+                <text font="JTESEW+SimSun" bbox="281.050,768.548,289.090,784.628" colourspace="ICCBased" ncolour="[0]" size="16.080">8</text>
+                <text font="JTESEW+SimSun" bbox="289.450,768.548,305.530,784.628" colourspace="ICCBased" ncolour="[0]" size="16.080">）</text>
+                <text font="JTESEW+SimSun" bbox="305.772,768.548,321.852,784.628" colourspace="ICCBased" ncolour="[0]" size="16.080">两</text>
+                <text font="JTESEW+SimSun" bbox="322.093,768.548,338.173,784.628" colourspace="ICCBased" ncolour="[0]" size="16.080">全</text>
+                <text font="JTESEW+SimSun" bbox="338.414,768.548,354.494,784.628" colourspace="ICCBased" ncolour="[0]" size="16.080">保</text>
+                <text font="JTESEW+SimSun" bbox="354.735,768.548,370.815,784.628" colourspace="ICCBased" ncolour="[0]" size="16.080">险</text>
+                <text font="JTESEW+SimSun" bbox="371.056,768.548,387.136,784.628" colourspace="ICCBased" ncolour="[0]" size="16.080">费</text>
+                <text font="JTESEW+SimSun" bbox="387.378,768.548,403.458,784.628" colourspace="ICCBased" ncolour="[0]" size="16.080">率</text>
+                <text font="JTESEW+SimSun" bbox="403.699,768.548,419.779,784.628" colourspace="ICCBased" ncolour="[0]" size="16.080">表</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="202.320,753.540,342.960,765.540">
+                <text font="JTESEW+SimSun" bbox="202.320,753.540,214.320,765.540" colourspace="ICCBased" ncolour="[0]" size="12.000">（</text>
+                <text font="JTESEW+SimSun" bbox="214.560,753.540,226.560,765.540" colourspace="ICCBased" ncolour="[0]" size="12.000">每</text>
+                <text font="JTESEW+SimSun" bbox="226.800,753.540,232.800,765.540" colourspace="ICCBased" ncolour="[0]" size="12.000">5</text>
+                <text font="JTESEW+SimSun" bbox="233.040,753.540,245.040,765.540" colourspace="ICCBased" ncolour="[0]" size="12.000">万</text>
+                <text font="JTESEW+SimSun" bbox="245.280,753.540,257.280,765.540" colourspace="ICCBased" ncolour="[0]" size="12.000">元</text>
+                <text font="JTESEW+SimSun" bbox="257.520,753.540,269.520,765.540" colourspace="ICCBased" ncolour="[0]" size="12.000">基</text>
+                <text font="JTESEW+SimSun" bbox="269.760,753.540,281.760,765.540" colourspace="ICCBased" ncolour="[0]" size="12.000">本</text>
+                <text font="JTESEW+SimSun" bbox="282.000,753.540,294.000,765.540" colourspace="ICCBased" ncolour="[0]" size="12.000">保</text>
+                <text font="JTESEW+SimSun" bbox="294.240,753.540,306.240,765.540" colourspace="ICCBased" ncolour="[0]" size="12.000">险</text>
+                <text font="JTESEW+SimSun" bbox="306.480,753.540,318.480,765.540" colourspace="ICCBased" ncolour="[0]" size="12.000">金</text>
+                <text font="JTESEW+SimSun" bbox="318.720,753.540,330.720,765.540" colourspace="ICCBased" ncolour="[0]" size="12.000">额</text>
+                <text font="JTESEW+SimSun" bbox="330.960,753.540,342.960,765.540" colourspace="ICCBased" ncolour="[0]" size="12.000">）</text>
+                <text>
+                </text>
+            </textline>
+        </textbox>
+        <textbox id="1" bbox="85.200,713.739,163.219,736.298">
+            <textline bbox="85.200,726.218,163.219,736.298">
+                <text font="JTESEW+SimSun" bbox="85.200,726.218,90.240,736.298" colourspace="ICCBased" ncolour="[0]" size="10.080"> </text>
+                <text font="JTESEW+SimSun" bbox="90.482,726.218,95.522,736.298" colourspace="ICCBased" ncolour="[0]" size="10.080"> </text>
+                <text font="JTESEW+SimSun" bbox="95.764,726.218,100.804,736.298" colourspace="ICCBased" ncolour="[0]" size="10.080"> </text>
+                <text font="JTESEW+SimSun" bbox="101.046,726.218,106.086,736.298" colourspace="ICCBased" ncolour="[0]" size="10.080"> </text>
+                <text font="JTESEW+SimSun" bbox="106.328,726.218,111.368,736.298" colourspace="ICCBased" ncolour="[0]" size="10.080"> </text>
+                <text font="JTESEW+SimSun" bbox="111.610,726.218,116.650,736.298" colourspace="ICCBased" ncolour="[0]" size="10.080"> </text>
+                <text font="JTESEW+SimSun" bbox="116.892,726.218,121.932,736.298" colourspace="ICCBased" ncolour="[0]" size="10.080"> </text>
+                <text font="JTESEW+SimSun" bbox="122.173,726.218,132.253,736.298" colourspace="ICCBased" ncolour="[0]" size="10.080">交</text>
+                <text font="JTESEW+SimSun" bbox="132.495,726.218,142.575,736.298" colourspace="ICCBased" ncolour="[0]" size="10.080">费</text>
+                <text font="JTESEW+SimSun" bbox="142.817,726.218,152.897,736.298" colourspace="ICCBased" ncolour="[0]" size="10.080">期</text>
+                <text font="JTESEW+SimSun" bbox="153.139,726.218,163.219,736.298" colourspace="ICCBased" ncolour="[0]" size="10.080">间</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="85.200,713.739,126.246,723.819">
+                <text font="JTESEW+SimSun" bbox="85.200,713.739,95.280,723.819" colourspace="ICCBased" ncolour="[0]" size="10.080">投</text>
+                <text font="JTESEW+SimSun" bbox="95.522,713.739,105.602,723.819" colourspace="ICCBased" ncolour="[0]" size="10.080">保</text>
+                <text font="JTESEW+SimSun" bbox="105.844,713.739,115.924,723.819" colourspace="ICCBased" ncolour="[0]" size="10.080">年</text>
+                <text font="JTESEW+SimSun" bbox="116.166,713.739,126.246,723.819" colourspace="ICCBased" ncolour="[0]" size="10.080">龄</text>
+                <text>
+                </text>
+            </textline>
+        </textbox>
+        <textbox id="2" bbox="213.360,712.538,275.292,736.778">
+            <textline bbox="213.360,726.698,275.292,736.778">
+                <text font="JTESEW+SimSun" bbox="213.360,726.698,223.440,736.778" colourspace="ICCBased" ncolour="[0]" size="10.080">保</text>
+                <text font="JTESEW+SimSun" bbox="223.682,726.698,233.762,736.778" colourspace="ICCBased" ncolour="[0]" size="10.080">险</text>
+                <text font="JTESEW+SimSun" bbox="234.004,726.698,244.084,736.778" colourspace="ICCBased" ncolour="[0]" size="10.080">期</text>
+                <text font="JTESEW+SimSun" bbox="244.326,726.698,254.406,736.778" colourspace="ICCBased" ncolour="[0]" size="10.080">间</text>
+                <text font="JTESEW+SimSun" bbox="254.648,726.698,259.688,736.778" colourspace="ICCBased" ncolour="[0]" size="10.080">2</text>
+                <text font="JTESEW+SimSun" bbox="259.930,726.698,264.970,736.778" colourspace="ICCBased" ncolour="[0]" size="10.080">0</text>
+                <text font="JTESEW+SimSun" bbox="265.212,726.698,275.292,736.778" colourspace="ICCBased" ncolour="[0]" size="10.080">年</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="228.720,712.538,259.686,722.618">
+                <text font="JTESEW+SimSun" bbox="228.720,712.538,233.760,722.618" colourspace="ICCBased" ncolour="[0]" size="10.080">1</text>
+                <text font="JTESEW+SimSun" bbox="234.002,712.538,239.042,722.618" colourspace="ICCBased" ncolour="[0]" size="10.080">0</text>
+                <text font="JTESEW+SimSun" bbox="239.284,712.538,249.364,722.618" colourspace="ICCBased" ncolour="[0]" size="10.080">年</text>
+                <text font="JTESEW+SimSun" bbox="249.606,712.538,259.686,722.618" colourspace="ICCBased" ncolour="[0]" size="10.080">交</text>
+                <text>
+                </text>
+            </textline>
+        </textbox>
+        <textbox id="3" bbox="359.280,712.538,421.212,736.778">
+            <textline bbox="359.280,726.698,421.212,736.778">
+                <text font="JTESEW+SimSun" bbox="359.280,726.698,369.360,736.778" colourspace="ICCBased" ncolour="[0]" size="10.080">保</text>
+                <text font="JTESEW+SimSun" bbox="369.602,726.698,379.682,736.778" colourspace="ICCBased" ncolour="[0]" size="10.080">险</text>
+                <text font="JTESEW+SimSun" bbox="379.924,726.698,390.004,736.778" colourspace="ICCBased" ncolour="[0]" size="10.080">期</text>
+                <text font="JTESEW+SimSun" bbox="390.246,726.698,400.326,736.778" colourspace="ICCBased" ncolour="[0]" size="10.080">间</text>
+                <text font="JTESEW+SimSun" bbox="400.568,726.698,405.608,736.778" colourspace="ICCBased" ncolour="[0]" size="10.080">3</text>
+                <text font="JTESEW+SimSun" bbox="405.850,726.698,410.890,736.778" colourspace="ICCBased" ncolour="[0]" size="10.080">0</text>
+                <text font="JTESEW+SimSun" bbox="411.132,726.698,421.212,736.778" colourspace="ICCBased" ncolour="[0]" size="10.080">年</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="374.640,712.538,405.606,722.618">
+                <text font="JTESEW+SimSun" bbox="374.640,712.538,379.680,722.618" colourspace="ICCBased" ncolour="[0]" size="10.080">1</text>
+                <text font="JTESEW+SimSun" bbox="379.922,712.538,384.962,722.618" colourspace="ICCBased" ncolour="[0]" size="10.080">0</text>
+                <text font="JTESEW+SimSun" bbox="385.204,712.538,395.284,722.618" colourspace="ICCBased" ncolour="[0]" size="10.080">年</text>
+                <text font="JTESEW+SimSun" bbox="395.526,712.538,405.606,722.618" colourspace="ICCBased" ncolour="[0]" size="10.080">交</text>
+                <text>
+                </text>
+            </textline>
+        </textbox>
+        <textbox id="4" bbox="108.000,694.298,144.490,704.378">
+            <textline bbox="108.000,694.298,144.490,704.378">
+                <text font="JTESEW+SimSun" bbox="108.000,694.298,113.040,704.378" colourspace="ICCBased" ncolour="[0]" size="10.080">1</text>
+                <text font="JTESEW+SimSun" bbox="113.282,694.298,118.322,704.378" colourspace="ICCBased" ncolour="[0]" size="10.080">8</text>
+                <text font="JTESEW+SimSun" bbox="118.564,694.298,123.604,704.378" colourspace="ICCBased" ncolour="[0]" size="10.080">-</text>
+                <text font="JTESEW+SimSun" bbox="123.846,694.298,128.886,704.378" colourspace="ICCBased" ncolour="[0]" size="10.080">4</text>
+                <text font="JTESEW+SimSun" bbox="129.128,694.298,134.168,704.378" colourspace="ICCBased" ncolour="[0]" size="10.080">0</text>
+                <text font="JTESEW+SimSun" bbox="134.410,694.298,144.490,704.378" colourspace="ICCBased" ncolour="[0]" size="10.080">岁</text>
+                <text>
+                </text>
+            </textline>
+        </textbox>
+        <textbox id="5" bbox="108.000,671.978,144.490,682.058">
+            <textline bbox="108.000,671.978,144.490,682.058">
+                <text font="JTESEW+SimSun" bbox="108.000,671.978,113.040,682.058" colourspace="ICCBased" ncolour="[0]" size="10.080">4</text>
+                <text font="JTESEW+SimSun" bbox="113.282,671.978,118.322,682.058" colourspace="ICCBased" ncolour="[0]" size="10.080">1</text>
+                <text font="JTESEW+SimSun" bbox="118.564,671.978,123.604,682.058" colourspace="ICCBased" ncolour="[0]" size="10.080">-</text>
+                <text font="JTESEW+SimSun" bbox="123.846,671.978,128.886,682.058" colourspace="ICCBased" ncolour="[0]" size="10.080">4</text>
+                <text font="JTESEW+SimSun" bbox="129.128,671.978,134.168,682.058" colourspace="ICCBased" ncolour="[0]" size="10.080">5</text>
+                <text font="JTESEW+SimSun" bbox="134.410,671.978,144.490,682.058" colourspace="ICCBased" ncolour="[0]" size="10.080">岁</text>
+                <text>
+                </text>
+            </textline>
+        </textbox>
+        <textbox id="6" bbox="108.000,649.658,144.490,659.738">
+            <textline bbox="108.000,649.658,144.490,659.738">
+                <text font="JTESEW+SimSun" bbox="108.000,649.658,113.040,659.738" colourspace="ICCBased" ncolour="[0]" size="10.080">4</text>
+                <text font="JTESEW+SimSun" bbox="113.282,649.658,118.322,659.738" colourspace="ICCBased" ncolour="[0]" size="10.080">6</text>
+                <text font="JTESEW+SimSun" bbox="118.564,649.658,123.604,659.738" colourspace="ICCBased" ncolour="[0]" size="10.080">-</text>
+                <text font="JTESEW+SimSun" bbox="123.846,649.658,128.886,659.738" colourspace="ICCBased" ncolour="[0]" size="10.080">5</text>
+                <text font="JTESEW+SimSun" bbox="129.128,649.658,134.168,659.738" colourspace="ICCBased" ncolour="[0]" size="10.080">0</text>
+                <text font="JTESEW+SimSun" bbox="134.410,649.658,144.490,659.738" colourspace="ICCBased" ncolour="[0]" size="10.080">岁</text>
+                <text>
+                </text>
+            </textline>
+        </textbox>
+        <textbox id="7" bbox="108.000,627.338,144.490,637.418">
+            <textline bbox="108.000,627.338,144.490,637.418">
+                <text font="JTESEW+SimSun" bbox="108.000,627.338,113.040,637.418" colourspace="ICCBased" ncolour="[0]" size="10.080">5</text>
+                <text font="JTESEW+SimSun" bbox="113.282,627.338,118.322,637.418" colourspace="ICCBased" ncolour="[0]" size="10.080">1</text>
+                <text font="JTESEW+SimSun" bbox="118.564,627.338,123.604,637.418" colourspace="ICCBased" ncolour="[0]" size="10.080">-</text>
+                <text font="JTESEW+SimSun" bbox="123.846,627.338,128.886,637.418" colourspace="ICCBased" ncolour="[0]" size="10.080">5</text>
+                <text font="JTESEW+SimSun" bbox="129.128,627.338,134.168,637.418" colourspace="ICCBased" ncolour="[0]" size="10.080">5</text>
+                <text font="JTESEW+SimSun" bbox="134.410,627.338,144.490,637.418" colourspace="ICCBased" ncolour="[0]" size="10.080">岁</text>
+                <text>
+                </text>
+            </textline>
+        </textbox>
+        <textbox id="8" bbox="234.240,694.298,254.400,704.378">
+            <textline bbox="234.240,694.298,254.400,704.378">
+                <text font="JTESEW+SimSun" bbox="234.240,694.298,239.280,704.378" colourspace="ICCBased" ncolour="[0]" size="10.080">2</text>
+                <text font="JTESEW+SimSun" bbox="239.280,694.298,244.320,704.378" colourspace="ICCBased" ncolour="[0]" size="10.080">1</text>
+                <text font="JTESEW+SimSun" bbox="244.320,694.298,249.360,704.378" colourspace="ICCBased" ncolour="[0]" size="10.080">9</text>
+                <text font="JTESEW+SimSun" bbox="249.360,694.298,254.400,704.378" colourspace="ICCBased" ncolour="[0]" size="10.080">2</text>
+                <text>
+                </text>
+            </textline>
+        </textbox>
+        <textbox id="9" bbox="234.240,671.978,254.400,682.058">
+            <textline bbox="234.240,671.978,254.400,682.058">
+                <text font="JTESEW+SimSun" bbox="234.240,671.978,239.280,682.058" colourspace="ICCBased" ncolour="[0]" size="10.080">3</text>
+                <text font="JTESEW+SimSun" bbox="239.280,671.978,244.320,682.058" colourspace="ICCBased" ncolour="[0]" size="10.080">0</text>
+                <text font="JTESEW+SimSun" bbox="244.320,671.978,249.360,682.058" colourspace="ICCBased" ncolour="[0]" size="10.080">5</text>
+                <text font="JTESEW+SimSun" bbox="249.360,671.978,254.400,682.058" colourspace="ICCBased" ncolour="[0]" size="10.080">7</text>
+                <text>
+                </text>
+            </textline>
+        </textbox>
+        <textbox id="10" bbox="234.240,649.658,254.400,659.738">
+            <textline bbox="234.240,649.658,254.400,659.738">
+                <text font="JTESEW+SimSun" bbox="234.240,649.658,239.280,659.738" colourspace="ICCBased" ncolour="[0]" size="10.080">3</text>
+                <text font="JTESEW+SimSun" bbox="239.280,649.658,244.320,659.738" colourspace="ICCBased" ncolour="[0]" size="10.080">0</text>
+                <text font="JTESEW+SimSun" bbox="244.320,649.658,249.360,659.738" colourspace="ICCBased" ncolour="[0]" size="10.080">5</text>
+                <text font="JTESEW+SimSun" bbox="249.360,649.658,254.400,659.738" colourspace="ICCBased" ncolour="[0]" size="10.080">7</text>
+                <text>
+                </text>
+            </textline>
+        </textbox>
+        <textbox id="11" bbox="234.240,627.338,254.400,637.418">
+            <textline bbox="234.240,627.338,254.400,637.418">
+                <text font="JTESEW+SimSun" bbox="234.240,627.338,239.280,637.418" colourspace="ICCBased" ncolour="[0]" size="10.080">3</text>
+                <text font="JTESEW+SimSun" bbox="239.280,627.338,244.320,637.418" colourspace="ICCBased" ncolour="[0]" size="10.080">4</text>
+                <text font="JTESEW+SimSun" bbox="244.320,627.338,249.360,637.418" colourspace="ICCBased" ncolour="[0]" size="10.080">2</text>
+                <text font="JTESEW+SimSun" bbox="249.360,627.338,254.400,637.418" colourspace="ICCBased" ncolour="[0]" size="10.080">5</text>
+                <text>
+                </text>
+            </textline>
+        </textbox>
+        <textbox id="12" bbox="380.158,694.298,400.318,704.378">
+            <textline bbox="380.158,694.298,400.318,704.378">
+                <text font="JTESEW+SimSun" bbox="380.158,694.298,385.198,704.378" colourspace="ICCBased" ncolour="[0]" size="10.080">1</text>
+                <text font="JTESEW+SimSun" bbox="385.198,694.298,390.238,704.378" colourspace="ICCBased" ncolour="[0]" size="10.080">6</text>
+                <text font="JTESEW+SimSun" bbox="390.238,694.298,395.278,704.378" colourspace="ICCBased" ncolour="[0]" size="10.080">9</text>
+                <text font="JTESEW+SimSun" bbox="395.278,694.298,400.318,704.378" colourspace="ICCBased" ncolour="[0]" size="10.080">9</text>
+                <text>
+                </text>
+            </textline>
+        </textbox>
+        <textbox id="13" bbox="380.158,671.978,400.318,682.058">
+            <textline bbox="380.158,671.978,400.318,682.058">
+                <text font="JTESEW+SimSun" bbox="380.158,671.978,385.198,682.058" colourspace="ICCBased" ncolour="[0]" size="10.080">2</text>
+                <text font="JTESEW+SimSun" bbox="385.198,671.978,390.238,682.058" colourspace="ICCBased" ncolour="[0]" size="10.080">2</text>
+                <text font="JTESEW+SimSun" bbox="390.238,671.978,395.278,682.058" colourspace="ICCBased" ncolour="[0]" size="10.080">3</text>
+                <text font="JTESEW+SimSun" bbox="395.278,671.978,400.318,682.058" colourspace="ICCBased" ncolour="[0]" size="10.080">2</text>
+                <text>
+                </text>
+            </textline>
+        </textbox>
+        <textbox id="14" bbox="380.158,638.860,400.318,648.940">
+            <textline bbox="380.158,638.860,400.318,648.940">
+                <text font="TQCAOC+SimSun" bbox="380.158,638.860,390.238,648.940" colourspace="ICCBased" ncolour="[0]" size="10.080">—</text>
+                <text font="TQCAOC+SimSun" bbox="390.238,638.860,400.318,648.940" colourspace="ICCBased" ncolour="[0]" size="10.080">—</text>
+                <text>
+                </text>
+            </textline>
+        </textbox>
+        <textbox id="15" bbox="85.197,610.303,508.557,620.383">
+            <textline bbox="85.197,610.303,508.557,620.383">
+                <text font="JTESEW+SimSun" bbox="85.197,610.303,95.277,620.383" colourspace="ICCBased" ncolour="[0]" size="10.080">注</text>
+                <text font="JTESEW+SimSun" bbox="95.277,610.303,105.357,620.383" colourspace="ICCBased" ncolour="[0]" size="10.080">：</text>
+                <text font="JTESEW+SimSun" bbox="105.357,610.303,115.437,620.383" colourspace="ICCBased" ncolour="[0]" size="10.080">本</text>
+                <text font="JTESEW+SimSun" bbox="115.437,610.303,125.517,620.383" colourspace="ICCBased" ncolour="[0]" size="10.080">产</text>
+                <text font="JTESEW+SimSun" bbox="125.517,610.303,135.597,620.383" colourspace="ICCBased" ncolour="[0]" size="10.080">品</text>
+                <text font="JTESEW+SimSun" bbox="135.597,610.303,140.637,620.383" colourspace="ICCBased" ncolour="[0]" size="10.080">2</text>
+                <text font="JTESEW+SimSun" bbox="140.637,610.303,145.677,620.383" colourspace="ICCBased" ncolour="[0]" size="10.080">0</text>
+                <text font="JTESEW+SimSun" bbox="145.677,610.303,155.757,620.383" colourspace="ICCBased" ncolour="[0]" size="10.080">年</text>
+                <text font="JTESEW+SimSun" bbox="155.757,610.303,165.837,620.383" colourspace="ICCBased" ncolour="[0]" size="10.080">保</text>
+                <text font="JTESEW+SimSun" bbox="165.837,610.303,175.917,620.383" colourspace="ICCBased" ncolour="[0]" size="10.080">险</text>
+                <text font="JTESEW+SimSun" bbox="175.917,610.303,185.997,620.383" colourspace="ICCBased" ncolour="[0]" size="10.080">期</text>
+                <text font="JTESEW+SimSun" bbox="185.997,610.303,196.077,620.383" colourspace="ICCBased" ncolour="[0]" size="10.080">情</text>
+                <text font="JTESEW+SimSun" bbox="196.077,610.303,206.157,620.383" colourspace="ICCBased" ncolour="[0]" size="10.080">况</text>
+                <text font="JTESEW+SimSun" bbox="206.157,610.303,216.237,620.383" colourspace="ICCBased" ncolour="[0]" size="10.080">下</text>
+                <text font="JTESEW+SimSun" bbox="216.237,610.303,226.317,620.383" colourspace="ICCBased" ncolour="[0]" size="10.080">投</text>
+                <text font="JTESEW+SimSun" bbox="226.317,610.303,236.397,620.383" colourspace="ICCBased" ncolour="[0]" size="10.080">保</text>
+                <text font="JTESEW+SimSun" bbox="236.397,610.303,246.477,620.383" colourspace="ICCBased" ncolour="[0]" size="10.080">年</text>
+                <text font="JTESEW+SimSun" bbox="246.477,610.303,256.557,620.383" colourspace="ICCBased" ncolour="[0]" size="10.080">龄</text>
+                <text font="JTESEW+SimSun" bbox="256.557,610.303,266.637,620.383" colourspace="ICCBased" ncolour="[0]" size="10.080">为</text>
+                <text font="JTESEW+SimSun" bbox="266.637,610.303,271.677,620.383" colourspace="ICCBased" ncolour="[0]" size="10.080">1</text>
+                <text font="JTESEW+SimSun" bbox="271.677,610.303,276.717,620.383" colourspace="ICCBased" ncolour="[0]" size="10.080">8</text>
+                <text font="JTESEW+SimSun" bbox="276.717,610.303,281.757,620.383" colourspace="ICCBased" ncolour="[0]" size="10.080">-</text>
+                <text font="JTESEW+SimSun" bbox="281.757,610.303,286.797,620.383" colourspace="ICCBased" ncolour="[0]" size="10.080">5</text>
+                <text font="JTESEW+SimSun" bbox="286.797,610.303,291.837,620.383" colourspace="ICCBased" ncolour="[0]" size="10.080">5</text>
+                <text font="JTESEW+SimSun" bbox="291.837,610.303,301.917,620.383" colourspace="ICCBased" ncolour="[0]" size="10.080">周</text>
+                <text font="JTESEW+SimSun" bbox="301.917,610.303,311.997,620.383" colourspace="ICCBased" ncolour="[0]" size="10.080">岁</text>
+                <text font="JTESEW+SimSun" bbox="311.997,610.303,322.077,620.383" colourspace="ICCBased" ncolour="[0]" size="10.080">，</text>
+                <text font="JTESEW+SimSun" bbox="322.077,610.303,327.117,620.383" colourspace="ICCBased" ncolour="[0]" size="10.080">3</text>
+                <text font="JTESEW+SimSun" bbox="327.117,610.303,332.157,620.383" colourspace="ICCBased" ncolour="[0]" size="10.080">0</text>
+                <text font="JTESEW+SimSun" bbox="332.157,610.303,342.237,620.383" colourspace="ICCBased" ncolour="[0]" size="10.080">年</text>
+                <text font="JTESEW+SimSun" bbox="342.237,610.303,352.317,620.383" colourspace="ICCBased" ncolour="[0]" size="10.080">保</text>
+                <text font="JTESEW+SimSun" bbox="352.317,610.303,362.397,620.383" colourspace="ICCBased" ncolour="[0]" size="10.080">险</text>
+                <text font="JTESEW+SimSun" bbox="362.397,610.303,372.477,620.383" colourspace="ICCBased" ncolour="[0]" size="10.080">期</text>
+                <text font="JTESEW+SimSun" bbox="372.477,610.303,382.557,620.383" colourspace="ICCBased" ncolour="[0]" size="10.080">情</text>
+                <text font="JTESEW+SimSun" bbox="382.557,610.303,392.637,620.383" colourspace="ICCBased" ncolour="[0]" size="10.080">况</text>
+                <text font="JTESEW+SimSun" bbox="392.637,610.303,402.717,620.383" colourspace="ICCBased" ncolour="[0]" size="10.080">下</text>
+                <text font="JTESEW+SimSun" bbox="402.717,610.303,412.797,620.383" colourspace="ICCBased" ncolour="[0]" size="10.080">投</text>
+                <text font="JTESEW+SimSun" bbox="412.797,610.303,422.877,620.383" colourspace="ICCBased" ncolour="[0]" size="10.080">保</text>
+                <text font="JTESEW+SimSun" bbox="422.877,610.303,432.957,620.383" colourspace="ICCBased" ncolour="[0]" size="10.080">年</text>
+                <text font="JTESEW+SimSun" bbox="432.957,610.303,443.037,620.383" colourspace="ICCBased" ncolour="[0]" size="10.080">龄</text>
+                <text font="JTESEW+SimSun" bbox="443.037,610.303,453.117,620.383" colourspace="ICCBased" ncolour="[0]" size="10.080">为</text>
+                <text font="JTESEW+SimSun" bbox="453.117,610.303,458.157,620.383" colourspace="ICCBased" ncolour="[0]" size="10.080">1</text>
+                <text font="JTESEW+SimSun" bbox="458.157,610.303,463.197,620.383" colourspace="ICCBased" ncolour="[0]" size="10.080">8</text>
+                <text font="JTESEW+SimSun" bbox="463.197,610.303,468.237,620.383" colourspace="ICCBased" ncolour="[0]" size="10.080">-</text>
+                <text font="JTESEW+SimSun" bbox="468.237,610.303,473.277,620.383" colourspace="ICCBased" ncolour="[0]" size="10.080">4</text>
+                <text font="JTESEW+SimSun" bbox="473.277,610.303,478.317,620.383" colourspace="ICCBased" ncolour="[0]" size="10.080">5</text>
+                <text font="JTESEW+SimSun" bbox="478.317,610.303,488.397,620.383" colourspace="ICCBased" ncolour="[0]" size="10.080">周</text>
+                <text font="JTESEW+SimSun" bbox="488.397,610.303,498.477,620.383" colourspace="ICCBased" ncolour="[0]" size="10.080">岁</text>
+                <text font="JTESEW+SimSun" bbox="498.477,610.303,508.557,620.383" colourspace="ICCBased" ncolour="[0]" size="10.080">。</text>
+                <text>
+                </text>
+            </textline>
+        </textbox>
+        <rect linewidth="0" bbox="82.800,621.360,83.760,739.920" />
+        <rect linewidth="0" bbox="168.960,621.360,169.920,738.960" />
+        <rect linewidth="0" bbox="318.720,621.360,319.680,738.960" />
+        <rect linewidth="0" bbox="460.800,621.360,461.760,738.960" />
+        <rect linewidth="0" bbox="83.760,738.960,461.760,739.919" />
+        <rect linewidth="0" bbox="169.920,724.800,461.760,725.760" />
+        <rect linewidth="0" bbox="83.760,710.640,461.760,711.600" />
+        <rect linewidth="0" bbox="83.760,688.320,461.760,689.280" />
+        <rect linewidth="0" bbox="83.760,666.000,461.760,666.960" />
+        <rect linewidth="0" bbox="83.760,643.680,319.680,644.640" />
+        <rect linewidth="0" bbox="83.760,621.360,461.760,622.320" />
+        <curve linewidth="0" bbox="83.760,711.120,169.440,739.440" pts="83.760,739.440,83.760,738.802,168.000,711.120,169.440,711.120,169.440,711.600,84.719,739.440"/>
+        <curve linewidth="0" bbox="83.280,711.120,169.440,739.440" pts="83.280,739.440,84.720,739.440,169.440,711.600,169.440,711.120,168.000,711.120,83.280,738.960"/>
+        <layout>
+            <textgroup bbox="85.197,610.303,508.557,784.628">
+                <textgroup bbox="85.200,627.338,421.212,784.628">
+                    <textgroup bbox="85.200,712.538,421.212,784.628">
+                        <textbox id="0" bbox="125.280,753.540,419.779,784.628" />
+                        <textgroup bbox="85.200,712.538,421.212,736.778">
+                            <textgroup bbox="85.200,712.538,275.292,736.778">
+                                <textbox id="1" bbox="85.200,713.739,163.219,736.298" />
+                                <textbox id="2" bbox="213.360,712.538,275.292,736.778" />
+                            </textgroup>
+                            <textbox id="3" bbox="359.280,712.538,421.212,736.778" />
+                        </textgroup>
+                    </textgroup>
+                    <textgroup bbox="108.000,627.338,400.318,704.378">
+                        <textgroup bbox="108.000,627.338,254.400,704.378">
+                            <textgroup bbox="108.000,627.338,144.490,704.378">
+                                <textgroup bbox="108.000,671.978,144.490,704.378">
+                                    <textbox id="4" bbox="108.000,694.298,144.490,704.378" />
+                                    <textbox id="5" bbox="108.000,671.978,144.490,682.058" />
+                                </textgroup>
+                                <textgroup bbox="108.000,627.338,144.490,659.738">
+                                    <textbox id="6" bbox="108.000,649.658,144.490,659.738" />
+                                    <textbox id="7" bbox="108.000,627.338,144.490,637.418" />
+                                </textgroup>
+                            </textgroup>
+                            <textgroup bbox="234.240,627.338,254.400,704.378">
+                                <textgroup bbox="234.240,671.978,254.400,704.378">
+                                    <textbox id="8" bbox="234.240,694.298,254.400,704.378" />
+                                    <textbox id="9" bbox="234.240,671.978,254.400,682.058" />
+                                </textgroup>
+                                <textgroup bbox="234.240,627.338,254.400,659.738">
+                                    <textbox id="10" bbox="234.240,649.658,254.400,659.738" />
+                                    <textbox id="11" bbox="234.240,627.338,254.400,637.418" />
+                                </textgroup>
+                            </textgroup>
+                        </textgroup>
+                        <textgroup bbox="380.158,638.860,400.318,704.378">
+                            <textgroup bbox="380.158,671.978,400.318,704.378">
+                                <textbox id="12" bbox="380.158,694.298,400.318,704.378" />
+                                <textbox id="13" bbox="380.158,671.978,400.318,682.058" />
+                            </textgroup>
+                            <textbox id="14" bbox="380.158,638.860,400.318,648.940" />
+                        </textgroup>
+                    </textgroup>
+                </textgroup>
+                <textbox id="15" bbox="85.197,610.303,508.557,620.383" />
+            </textgroup>
+        </layout>
+    </page>
+</pages>

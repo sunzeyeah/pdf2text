@@ -1,0 +1,2022 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<pages>
+    <page id="1" bbox="0.000,0.000,595.200,841.680" rotate="0">
+        <textbox id="0" bbox="119.900,745.947,475.100,783.856">
+            <textline bbox="119.900,766.096,475.100,783.856">
+                <text font="" bbox="119.900,766.096,137.660,783.856" colourspace="DeviceGray" ncolour="0" size="17.760">《</text>
+                <text font="" bbox="137.660,766.096,155.420,783.856" colourspace="DeviceGray" ncolour="0" size="17.760">平</text>
+                <text font="" bbox="155.420,766.096,173.180,783.856" colourspace="DeviceGray" ncolour="0" size="17.760">安</text>
+                <text font="" bbox="173.180,766.096,190.940,783.856" colourspace="DeviceGray" ncolour="0" size="17.760">安</text>
+                <text font="" bbox="190.940,766.096,208.700,783.856" colourspace="DeviceGray" ncolour="0" size="17.760">心</text>
+                <text font="" bbox="208.700,766.096,226.460,783.856" colourspace="DeviceGray" ncolour="0" size="17.760">人</text>
+                <text font="" bbox="226.460,766.096,244.220,783.856" colourspace="DeviceGray" ncolour="0" size="17.760">生</text>
+                <text font="" bbox="244.220,766.096,261.980,783.856" colourspace="DeviceGray" ncolour="0" size="17.760">（</text>
+                <text font="" bbox="261.980,766.096,279.740,783.856" colourspace="DeviceGray" ncolour="0" size="17.760">尊</text>
+                <text font="" bbox="279.740,766.096,297.500,783.856" colourspace="DeviceGray" ncolour="0" size="17.760">享</text>
+                <text font="" bbox="297.500,766.096,315.260,783.856" colourspace="DeviceGray" ncolour="0" size="17.760">版</text>
+                <text font="" bbox="315.260,766.096,333.020,783.856" colourspace="DeviceGray" ncolour="0" size="17.760">）</text>
+                <text font="" bbox="333.020,766.096,350.780,783.856" colourspace="DeviceGray" ncolour="0" size="17.760">两</text>
+                <text font="" bbox="350.780,766.096,368.540,783.856" colourspace="DeviceGray" ncolour="0" size="17.760">全</text>
+                <text font="" bbox="368.540,766.096,386.300,783.856" colourspace="DeviceGray" ncolour="0" size="17.760">保</text>
+                <text font="" bbox="386.300,766.096,404.060,783.856" colourspace="DeviceGray" ncolour="0" size="17.760">险</text>
+                <text font="" bbox="404.060,766.096,421.820,783.856" colourspace="DeviceGray" ncolour="0" size="17.760">》</text>
+                <text font="" bbox="421.820,766.096,439.580,783.856" colourspace="DeviceGray" ncolour="0" size="17.760">费</text>
+                <text font="" bbox="439.580,766.096,457.340,783.856" colourspace="DeviceGray" ncolour="0" size="17.760">率</text>
+                <text font="" bbox="457.340,766.096,475.100,783.856" colourspace="DeviceGray" ncolour="0" size="17.760">表</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="218.330,745.947,376.610,760.227">
+                <text font="" bbox="218.330,745.947,232.610,760.227" colourspace="DeviceGray" ncolour="0" size="14.280">（</text>
+                <text font="" bbox="232.730,745.947,247.010,760.227" colourspace="DeviceGray" ncolour="0" size="14.280">每</text>
+                <text font="" bbox="247.130,745.947,261.410,760.227" colourspace="DeviceGray" ncolour="0" size="14.280">万</text>
+                <text font="" bbox="261.530,745.947,275.810,760.227" colourspace="DeviceGray" ncolour="0" size="14.280">元</text>
+                <text font="" bbox="275.930,745.947,290.210,760.227" colourspace="DeviceGray" ncolour="0" size="14.280">基</text>
+                <text font="" bbox="290.330,745.947,304.610,760.227" colourspace="DeviceGray" ncolour="0" size="14.280">本</text>
+                <text font="" bbox="304.730,745.947,319.010,760.227" colourspace="DeviceGray" ncolour="0" size="14.280">保</text>
+                <text font="" bbox="319.130,745.947,333.410,760.227" colourspace="DeviceGray" ncolour="0" size="14.280">险</text>
+                <text font="" bbox="333.530,745.947,347.810,760.227" colourspace="DeviceGray" ncolour="0" size="14.280">金</text>
+                <text font="" bbox="347.930,745.947,362.210,760.227" colourspace="DeviceGray" ncolour="0" size="14.280">额</text>
+                <text font="" bbox="362.330,745.947,376.610,760.227" colourspace="DeviceGray" ncolour="0" size="14.280">）</text>
+                <text>
+                </text>
+            </textline>
+        </textbox>
+        <textbox id="1" bbox="77.520,711.428,113.400,720.308">
+            <textline bbox="77.520,711.428,113.400,720.308">
+                <text font="" bbox="77.520,711.428,86.400,720.308" colourspace="DeviceGray" ncolour="0" size="8.880">交</text>
+                <text font="" bbox="86.520,711.428,95.400,720.308" colourspace="DeviceGray" ncolour="0" size="8.880">费</text>
+                <text font="" bbox="95.520,711.428,104.400,720.308" colourspace="DeviceGray" ncolour="0" size="8.880">期</text>
+                <text font="" bbox="104.520,711.428,113.400,720.308" colourspace="DeviceGray" ncolour="0" size="8.880">间</text>
+                <text>
+                </text>
+            </textline>
+        </textbox>
+        <textbox id="2" bbox="86.520,693.288,104.400,702.168">
+            <textline bbox="86.520,693.288,104.400,702.168">
+                <text font="" bbox="86.520,693.288,95.400,702.168" colourspace="DeviceGray" ncolour="0" size="8.880">性</text>
+                <text font="" bbox="95.520,693.288,104.400,702.168" colourspace="DeviceGray" ncolour="0" size="8.880">别</text>
+                <text>
+                </text>
+            </textline>
+        </textbox>
+        <textbox id="3" bbox="57.720,667.128,125.520,687.648">
+            <textline bbox="57.720,678.102,125.520,687.648">
+                <text font="Times New Roman,Bold" bbox="57.720,678.102,59.940,686.982" colourspace="DeviceGray" ncolour="0" size="8.880"> </text>
+                <text font="Times New Roman,Bold" bbox="60.000,678.102,62.220,686.982" colourspace="DeviceGray" ncolour="0" size="8.880"> </text>
+                <text font="Times New Roman,Bold" bbox="62.280,678.102,64.500,686.982" colourspace="DeviceGray" ncolour="0" size="8.880"> </text>
+                <text font="Times New Roman,Bold" bbox="64.560,678.102,66.780,686.982" colourspace="DeviceGray" ncolour="0" size="8.880"> </text>
+                <text font="Times New Roman,Bold" bbox="66.840,678.102,69.060,686.982" colourspace="DeviceGray" ncolour="0" size="8.880"> </text>
+                <text font="Times New Roman,Bold" bbox="69.120,678.102,71.340,686.982" colourspace="DeviceGray" ncolour="0" size="8.880"> </text>
+                <text font="Times New Roman,Bold" bbox="71.400,678.102,73.620,686.982" colourspace="DeviceGray" ncolour="0" size="8.880"> </text>
+                <text font="Times New Roman,Bold" bbox="73.680,678.102,75.900,686.982" colourspace="DeviceGray" ncolour="0" size="8.880"> </text>
+                <text font="Times New Roman,Bold" bbox="75.960,678.102,78.180,686.982" colourspace="DeviceGray" ncolour="0" size="8.880"> </text>
+                <text font="Times New Roman,Bold" bbox="78.240,678.102,80.460,686.982" colourspace="DeviceGray" ncolour="0" size="8.880"> </text>
+                <text font="Times New Roman,Bold" bbox="80.520,678.102,82.740,686.982" colourspace="DeviceGray" ncolour="0" size="8.880"> </text>
+                <text font="Times New Roman,Bold" bbox="82.800,678.102,85.020,686.982" colourspace="DeviceGray" ncolour="0" size="8.880"> </text>
+                <text font="Times New Roman,Bold" bbox="85.080,678.102,87.300,686.982" colourspace="DeviceGray" ncolour="0" size="8.880"> </text>
+                <text font="Times New Roman,Bold" bbox="87.360,678.102,89.580,686.982" colourspace="DeviceGray" ncolour="0" size="8.880"> </text>
+                <text font="" bbox="89.640,678.768,98.520,687.648" colourspace="DeviceGray" ncolour="0" size="8.880">保</text>
+                <text font="" bbox="98.640,678.768,107.520,687.648" colourspace="DeviceGray" ncolour="0" size="8.880">险</text>
+                <text font="" bbox="107.640,678.768,116.520,687.648" colourspace="DeviceGray" ncolour="0" size="8.880">期</text>
+                <text font="" bbox="116.640,678.768,125.520,687.648" colourspace="DeviceGray" ncolour="0" size="8.880">限</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="57.720,667.128,93.600,676.008">
+                <text font="" bbox="57.720,667.128,66.600,676.008" colourspace="DeviceGray" ncolour="0" size="8.880">投</text>
+                <text font="" bbox="66.720,667.128,75.600,676.008" colourspace="DeviceGray" ncolour="0" size="8.880">保</text>
+                <text font="" bbox="75.720,667.128,84.600,676.008" colourspace="DeviceGray" ncolour="0" size="8.880">年</text>
+                <text font="" bbox="84.720,667.128,93.600,676.008" colourspace="DeviceGray" ncolour="0" size="8.880">龄</text>
+                <text>
+                </text>
+            </textline>
+        </textbox>
+        <textbox id="4" bbox="327.670,711.602,345.430,721.148">
+            <textline bbox="327.670,711.602,345.430,721.148">
+                <text font="Times New Roman,Bold" bbox="327.670,711.602,332.110,720.482" colourspace="DeviceGray" ncolour="0" size="8.880">1</text>
+                <text font="Times New Roman,Bold" bbox="332.110,711.602,336.550,720.482" colourspace="DeviceGray" ncolour="0" size="8.880">9</text>
+                <text font="" bbox="336.550,712.268,345.430,721.148" colourspace="DeviceGray" ncolour="0" size="8.880">年</text>
+                <text>
+                </text>
+            </textline>
+        </textbox>
+        <textbox id="5" bbox="226.850,693.768,244.730,702.648">
+            <textline bbox="226.850,693.768,244.730,702.648">
+                <text font="" bbox="226.850,693.768,235.730,702.648" colourspace="DeviceGray" ncolour="0" size="8.880">男</text>
+                <text font="" bbox="235.850,693.768,244.730,702.648" colourspace="DeviceGray" ncolour="0" size="8.880">性</text>
+                <text>
+                </text>
+            </textline>
+        </textbox>
+        <textbox id="6" bbox="428.500,693.768,446.380,702.648">
+            <textline bbox="428.500,693.768,446.380,702.648">
+                <text font="" bbox="428.500,693.768,437.380,702.648" colourspace="DeviceGray" ncolour="0" size="8.880">女</text>
+                <text font="" bbox="437.500,693.768,446.380,702.648" colourspace="DeviceGray" ncolour="0" size="8.880">性</text>
+                <text>
+                </text>
+            </textline>
+        </textbox>
+        <textbox id="7" bbox="167.420,672.582,203.180,682.128">
+            <textline bbox="167.420,672.582,203.180,682.128">
+                <text font="" bbox="167.420,673.248,176.300,682.128" colourspace="DeviceGray" ncolour="0" size="8.880">保</text>
+                <text font="" bbox="176.420,673.248,185.300,682.128" colourspace="DeviceGray" ncolour="0" size="8.880">至</text>
+                <text font="Times New Roman,Bold" bbox="185.420,672.582,189.860,681.462" colourspace="DeviceGray" ncolour="0" size="8.880">8</text>
+                <text font="Times New Roman,Bold" bbox="189.860,672.582,194.300,681.462" colourspace="DeviceGray" ncolour="0" size="8.880">0</text>
+                <text font="" bbox="194.300,673.248,203.180,682.128" colourspace="DeviceGray" ncolour="0" size="8.880">岁</text>
+                <text>
+                </text>
+            </textline>
+        </textbox>
+        <textbox id="8" bbox="266.090,672.582,306.290,682.128">
+            <textline bbox="266.090,672.582,306.290,682.128">
+                <text font="" bbox="266.090,673.248,274.970,682.128" colourspace="DeviceGray" ncolour="0" size="8.880">保</text>
+                <text font="" bbox="275.090,673.248,283.970,682.128" colourspace="DeviceGray" ncolour="0" size="8.880">至</text>
+                <text font="Times New Roman,Bold" bbox="284.090,672.582,288.530,681.462" colourspace="DeviceGray" ncolour="0" size="8.880">1</text>
+                <text font="Times New Roman,Bold" bbox="288.530,672.582,292.970,681.462" colourspace="DeviceGray" ncolour="0" size="8.880">0</text>
+                <text font="Times New Roman,Bold" bbox="292.970,672.582,297.410,681.462" colourspace="DeviceGray" ncolour="0" size="8.880">0</text>
+                <text font="" bbox="297.410,673.248,306.290,682.128" colourspace="DeviceGray" ncolour="0" size="8.880">岁</text>
+                <text>
+                </text>
+            </textline>
+        </textbox>
+        <textbox id="9" bbox="369.070,672.582,404.830,682.128">
+            <textline bbox="369.070,672.582,404.830,682.128">
+                <text font="" bbox="369.070,673.248,377.950,682.128" colourspace="DeviceGray" ncolour="0" size="8.880">保</text>
+                <text font="" bbox="378.070,673.248,386.950,682.128" colourspace="DeviceGray" ncolour="0" size="8.880">至</text>
+                <text font="Times New Roman,Bold" bbox="387.070,672.582,391.510,681.462" colourspace="DeviceGray" ncolour="0" size="8.880">8</text>
+                <text font="Times New Roman,Bold" bbox="391.510,672.582,395.950,681.462" colourspace="DeviceGray" ncolour="0" size="8.880">0</text>
+                <text font="" bbox="395.950,673.248,404.830,682.128" colourspace="DeviceGray" ncolour="0" size="8.880">岁</text>
+                <text>
+                </text>
+            </textline>
+        </textbox>
+        <textbox id="10" bbox="467.740,672.582,507.940,682.128">
+            <textline bbox="467.740,672.582,507.940,682.128">
+                <text font="" bbox="467.740,673.248,476.620,682.128" colourspace="DeviceGray" ncolour="0" size="8.880">保</text>
+                <text font="" bbox="476.740,673.248,485.620,682.128" colourspace="DeviceGray" ncolour="0" size="8.880">至</text>
+                <text font="Times New Roman,Bold" bbox="485.740,672.582,490.180,681.462" colourspace="DeviceGray" ncolour="0" size="8.880">1</text>
+                <text font="Times New Roman,Bold" bbox="490.180,672.582,494.620,681.462" colourspace="DeviceGray" ncolour="0" size="8.880">0</text>
+                <text font="Times New Roman,Bold" bbox="494.620,672.582,499.060,681.462" colourspace="DeviceGray" ncolour="0" size="8.880">0</text>
+                <text font="" bbox="499.060,673.248,507.940,682.128" colourspace="DeviceGray" ncolour="0" size="8.880">岁</text>
+                <text>
+                </text>
+            </textline>
+        </textbox>
+        <textbox id="11" bbox="91.440,67.682,100.320,664.662">
+            <textline bbox="93.720,655.782,98.160,664.662">
+                <text font="Times New Roman,Bold" bbox="93.720,655.782,98.160,664.662" colourspace="DeviceGray" ncolour="0" size="8.880">0</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="93.720,644.022,98.160,652.902">
+                <text font="Times New Roman,Bold" bbox="93.720,644.022,98.160,652.902" colourspace="DeviceGray" ncolour="0" size="8.880">1</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="93.720,632.262,98.160,641.142">
+                <text font="Times New Roman,Bold" bbox="93.720,632.262,98.160,641.142" colourspace="DeviceGray" ncolour="0" size="8.880">2</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="93.720,620.502,98.160,629.382">
+                <text font="Times New Roman,Bold" bbox="93.720,620.502,98.160,629.382" colourspace="DeviceGray" ncolour="0" size="8.880">3</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="93.720,608.742,98.160,617.622">
+                <text font="Times New Roman,Bold" bbox="93.720,608.742,98.160,617.622" colourspace="DeviceGray" ncolour="0" size="8.880">4</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="93.720,596.982,98.160,605.862">
+                <text font="Times New Roman,Bold" bbox="93.720,596.982,98.160,605.862" colourspace="DeviceGray" ncolour="0" size="8.880">5</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="93.720,585.222,98.160,594.102">
+                <text font="Times New Roman,Bold" bbox="93.720,585.222,98.160,594.102" colourspace="DeviceGray" ncolour="0" size="8.880">6</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="93.720,573.462,98.160,582.342">
+                <text font="Times New Roman,Bold" bbox="93.720,573.462,98.160,582.342" colourspace="DeviceGray" ncolour="0" size="8.880">7</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="93.720,561.702,98.160,570.582">
+                <text font="Times New Roman,Bold" bbox="93.720,561.702,98.160,570.582" colourspace="DeviceGray" ncolour="0" size="8.880">8</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="93.720,549.942,98.160,558.822">
+                <text font="Times New Roman,Bold" bbox="93.720,549.942,98.160,558.822" colourspace="DeviceGray" ncolour="0" size="8.880">9</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="91.440,538.152,100.320,547.032">
+                <text font="Times New Roman,Bold" bbox="91.440,538.152,95.880,547.032" colourspace="DeviceGray" ncolour="0" size="8.880">1</text>
+                <text font="Times New Roman,Bold" bbox="95.880,538.152,100.320,547.032" colourspace="DeviceGray" ncolour="0" size="8.880">0</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="91.440,526.392,100.320,535.272">
+                <text font="Times New Roman,Bold" bbox="91.440,526.392,95.880,535.272" colourspace="DeviceGray" ncolour="0" size="8.880">1</text>
+                <text font="Times New Roman,Bold" bbox="95.880,526.392,100.320,535.272" colourspace="DeviceGray" ncolour="0" size="8.880">1</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="91.440,514.632,100.320,523.512">
+                <text font="Times New Roman,Bold" bbox="91.440,514.632,95.880,523.512" colourspace="DeviceGray" ncolour="0" size="8.880">1</text>
+                <text font="Times New Roman,Bold" bbox="95.880,514.632,100.320,523.512" colourspace="DeviceGray" ncolour="0" size="8.880">2</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="91.440,502.872,100.320,511.752">
+                <text font="Times New Roman,Bold" bbox="91.440,502.872,95.880,511.752" colourspace="DeviceGray" ncolour="0" size="8.880">1</text>
+                <text font="Times New Roman,Bold" bbox="95.880,502.872,100.320,511.752" colourspace="DeviceGray" ncolour="0" size="8.880">3</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="91.440,491.112,100.320,499.992">
+                <text font="Times New Roman,Bold" bbox="91.440,491.112,95.880,499.992" colourspace="DeviceGray" ncolour="0" size="8.880">1</text>
+                <text font="Times New Roman,Bold" bbox="95.880,491.112,100.320,499.992" colourspace="DeviceGray" ncolour="0" size="8.880">4</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="91.440,479.352,100.320,488.232">
+                <text font="Times New Roman,Bold" bbox="91.440,479.352,95.880,488.232" colourspace="DeviceGray" ncolour="0" size="8.880">1</text>
+                <text font="Times New Roman,Bold" bbox="95.880,479.352,100.320,488.232" colourspace="DeviceGray" ncolour="0" size="8.880">5</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="91.440,467.592,100.320,476.472">
+                <text font="Times New Roman,Bold" bbox="91.440,467.592,95.880,476.472" colourspace="DeviceGray" ncolour="0" size="8.880">1</text>
+                <text font="Times New Roman,Bold" bbox="95.880,467.592,100.320,476.472" colourspace="DeviceGray" ncolour="0" size="8.880">6</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="91.440,455.832,100.320,464.712">
+                <text font="Times New Roman,Bold" bbox="91.440,455.832,95.880,464.712" colourspace="DeviceGray" ncolour="0" size="8.880">1</text>
+                <text font="Times New Roman,Bold" bbox="95.880,455.832,100.320,464.712" colourspace="DeviceGray" ncolour="0" size="8.880">7</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="91.440,444.072,100.320,452.952">
+                <text font="Times New Roman,Bold" bbox="91.440,444.072,95.880,452.952" colourspace="DeviceGray" ncolour="0" size="8.880">1</text>
+                <text font="Times New Roman,Bold" bbox="95.880,444.072,100.320,452.952" colourspace="DeviceGray" ncolour="0" size="8.880">8</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="91.440,432.312,100.320,441.192">
+                <text font="Times New Roman,Bold" bbox="91.440,432.312,95.880,441.192" colourspace="DeviceGray" ncolour="0" size="8.880">1</text>
+                <text font="Times New Roman,Bold" bbox="95.880,432.312,100.320,441.192" colourspace="DeviceGray" ncolour="0" size="8.880">9</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="91.440,420.552,100.320,429.432">
+                <text font="Times New Roman,Bold" bbox="91.440,420.552,95.880,429.432" colourspace="DeviceGray" ncolour="0" size="8.880">2</text>
+                <text font="Times New Roman,Bold" bbox="95.880,420.552,100.320,429.432" colourspace="DeviceGray" ncolour="0" size="8.880">0</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="91.440,408.792,100.320,417.672">
+                <text font="Times New Roman,Bold" bbox="91.440,408.792,95.880,417.672" colourspace="DeviceGray" ncolour="0" size="8.880">2</text>
+                <text font="Times New Roman,Bold" bbox="95.880,408.792,100.320,417.672" colourspace="DeviceGray" ncolour="0" size="8.880">1</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="91.440,397.012,100.320,405.892">
+                <text font="Times New Roman,Bold" bbox="91.440,397.012,95.880,405.892" colourspace="DeviceGray" ncolour="0" size="8.880">2</text>
+                <text font="Times New Roman,Bold" bbox="95.880,397.012,100.320,405.892" colourspace="DeviceGray" ncolour="0" size="8.880">2</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="91.440,385.252,100.320,394.132">
+                <text font="Times New Roman,Bold" bbox="91.440,385.252,95.880,394.132" colourspace="DeviceGray" ncolour="0" size="8.880">2</text>
+                <text font="Times New Roman,Bold" bbox="95.880,385.252,100.320,394.132" colourspace="DeviceGray" ncolour="0" size="8.880">3</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="91.440,373.492,100.320,382.372">
+                <text font="Times New Roman,Bold" bbox="91.440,373.492,95.880,382.372" colourspace="DeviceGray" ncolour="0" size="8.880">2</text>
+                <text font="Times New Roman,Bold" bbox="95.880,373.492,100.320,382.372" colourspace="DeviceGray" ncolour="0" size="8.880">4</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="91.440,361.732,100.320,370.612">
+                <text font="Times New Roman,Bold" bbox="91.440,361.732,95.880,370.612" colourspace="DeviceGray" ncolour="0" size="8.880">2</text>
+                <text font="Times New Roman,Bold" bbox="95.880,361.732,100.320,370.612" colourspace="DeviceGray" ncolour="0" size="8.880">5</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="91.440,349.972,100.320,358.852">
+                <text font="Times New Roman,Bold" bbox="91.440,349.972,95.880,358.852" colourspace="DeviceGray" ncolour="0" size="8.880">2</text>
+                <text font="Times New Roman,Bold" bbox="95.880,349.972,100.320,358.852" colourspace="DeviceGray" ncolour="0" size="8.880">6</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="91.440,338.212,100.320,347.092">
+                <text font="Times New Roman,Bold" bbox="91.440,338.212,95.880,347.092" colourspace="DeviceGray" ncolour="0" size="8.880">2</text>
+                <text font="Times New Roman,Bold" bbox="95.880,338.212,100.320,347.092" colourspace="DeviceGray" ncolour="0" size="8.880">7</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="91.440,326.452,100.320,335.332">
+                <text font="Times New Roman,Bold" bbox="91.440,326.452,95.880,335.332" colourspace="DeviceGray" ncolour="0" size="8.880">2</text>
+                <text font="Times New Roman,Bold" bbox="95.880,326.452,100.320,335.332" colourspace="DeviceGray" ncolour="0" size="8.880">8</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="91.440,314.692,100.320,323.572">
+                <text font="Times New Roman,Bold" bbox="91.440,314.692,95.880,323.572" colourspace="DeviceGray" ncolour="0" size="8.880">2</text>
+                <text font="Times New Roman,Bold" bbox="95.880,314.692,100.320,323.572" colourspace="DeviceGray" ncolour="0" size="8.880">9</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="91.440,302.932,100.320,311.812">
+                <text font="Times New Roman,Bold" bbox="91.440,302.932,95.880,311.812" colourspace="DeviceGray" ncolour="0" size="8.880">3</text>
+                <text font="Times New Roman,Bold" bbox="95.880,302.932,100.320,311.812" colourspace="DeviceGray" ncolour="0" size="8.880">0</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="91.440,291.172,100.320,300.052">
+                <text font="Times New Roman,Bold" bbox="91.440,291.172,95.880,300.052" colourspace="DeviceGray" ncolour="0" size="8.880">3</text>
+                <text font="Times New Roman,Bold" bbox="95.880,291.172,100.320,300.052" colourspace="DeviceGray" ncolour="0" size="8.880">1</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="91.440,279.412,100.320,288.292">
+                <text font="Times New Roman,Bold" bbox="91.440,279.412,95.880,288.292" colourspace="DeviceGray" ncolour="0" size="8.880">3</text>
+                <text font="Times New Roman,Bold" bbox="95.880,279.412,100.320,288.292" colourspace="DeviceGray" ncolour="0" size="8.880">2</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="91.440,267.652,100.320,276.532">
+                <text font="Times New Roman,Bold" bbox="91.440,267.652,95.880,276.532" colourspace="DeviceGray" ncolour="0" size="8.880">3</text>
+                <text font="Times New Roman,Bold" bbox="95.880,267.652,100.320,276.532" colourspace="DeviceGray" ncolour="0" size="8.880">3</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="91.440,255.892,100.320,264.772">
+                <text font="Times New Roman,Bold" bbox="91.440,255.892,95.880,264.772" colourspace="DeviceGray" ncolour="0" size="8.880">3</text>
+                <text font="Times New Roman,Bold" bbox="95.880,255.892,100.320,264.772" colourspace="DeviceGray" ncolour="0" size="8.880">4</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="91.440,244.102,100.320,252.982">
+                <text font="Times New Roman,Bold" bbox="91.440,244.102,95.880,252.982" colourspace="DeviceGray" ncolour="0" size="8.880">3</text>
+                <text font="Times New Roman,Bold" bbox="95.880,244.102,100.320,252.982" colourspace="DeviceGray" ncolour="0" size="8.880">5</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="91.440,232.342,100.320,241.222">
+                <text font="Times New Roman,Bold" bbox="91.440,232.342,95.880,241.222" colourspace="DeviceGray" ncolour="0" size="8.880">3</text>
+                <text font="Times New Roman,Bold" bbox="95.880,232.342,100.320,241.222" colourspace="DeviceGray" ncolour="0" size="8.880">6</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="91.440,220.582,100.320,229.462">
+                <text font="Times New Roman,Bold" bbox="91.440,220.582,95.880,229.462" colourspace="DeviceGray" ncolour="0" size="8.880">3</text>
+                <text font="Times New Roman,Bold" bbox="95.880,220.582,100.320,229.462" colourspace="DeviceGray" ncolour="0" size="8.880">7</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="91.440,208.822,100.320,217.702">
+                <text font="Times New Roman,Bold" bbox="91.440,208.822,95.880,217.702" colourspace="DeviceGray" ncolour="0" size="8.880">3</text>
+                <text font="Times New Roman,Bold" bbox="95.880,208.822,100.320,217.702" colourspace="DeviceGray" ncolour="0" size="8.880">8</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="91.440,197.062,100.320,205.942">
+                <text font="Times New Roman,Bold" bbox="91.440,197.062,95.880,205.942" colourspace="DeviceGray" ncolour="0" size="8.880">3</text>
+                <text font="Times New Roman,Bold" bbox="95.880,197.062,100.320,205.942" colourspace="DeviceGray" ncolour="0" size="8.880">9</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="91.440,185.302,100.320,194.182">
+                <text font="Times New Roman,Bold" bbox="91.440,185.302,95.880,194.182" colourspace="DeviceGray" ncolour="0" size="8.880">4</text>
+                <text font="Times New Roman,Bold" bbox="95.880,185.302,100.320,194.182" colourspace="DeviceGray" ncolour="0" size="8.880">0</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="91.440,173.542,100.320,182.422">
+                <text font="Times New Roman,Bold" bbox="91.440,173.542,95.880,182.422" colourspace="DeviceGray" ncolour="0" size="8.880">4</text>
+                <text font="Times New Roman,Bold" bbox="95.880,173.542,100.320,182.422" colourspace="DeviceGray" ncolour="0" size="8.880">1</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="91.440,161.782,100.320,170.662">
+                <text font="Times New Roman,Bold" bbox="91.440,161.782,95.880,170.662" colourspace="DeviceGray" ncolour="0" size="8.880">4</text>
+                <text font="Times New Roman,Bold" bbox="95.880,161.782,100.320,170.662" colourspace="DeviceGray" ncolour="0" size="8.880">2</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="91.440,150.022,100.320,158.902">
+                <text font="Times New Roman,Bold" bbox="91.440,150.022,95.880,158.902" colourspace="DeviceGray" ncolour="0" size="8.880">4</text>
+                <text font="Times New Roman,Bold" bbox="95.880,150.022,100.320,158.902" colourspace="DeviceGray" ncolour="0" size="8.880">3</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="91.440,138.262,100.320,147.142">
+                <text font="Times New Roman,Bold" bbox="91.440,138.262,95.880,147.142" colourspace="DeviceGray" ncolour="0" size="8.880">4</text>
+                <text font="Times New Roman,Bold" bbox="95.880,138.262,100.320,147.142" colourspace="DeviceGray" ncolour="0" size="8.880">4</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="91.440,126.502,100.320,135.382">
+                <text font="Times New Roman,Bold" bbox="91.440,126.502,95.880,135.382" colourspace="DeviceGray" ncolour="0" size="8.880">4</text>
+                <text font="Times New Roman,Bold" bbox="95.880,126.502,100.320,135.382" colourspace="DeviceGray" ncolour="0" size="8.880">5</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="91.440,114.742,100.320,123.622">
+                <text font="Times New Roman,Bold" bbox="91.440,114.742,95.880,123.622" colourspace="DeviceGray" ncolour="0" size="8.880">4</text>
+                <text font="Times New Roman,Bold" bbox="95.880,114.742,100.320,123.622" colourspace="DeviceGray" ncolour="0" size="8.880">6</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="91.440,102.962,100.320,111.842">
+                <text font="Times New Roman,Bold" bbox="91.440,102.962,95.880,111.842" colourspace="DeviceGray" ncolour="0" size="8.880">4</text>
+                <text font="Times New Roman,Bold" bbox="95.880,102.962,100.320,111.842" colourspace="DeviceGray" ncolour="0" size="8.880">7</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="91.440,91.202,100.320,100.082">
+                <text font="Times New Roman,Bold" bbox="91.440,91.202,95.880,100.082" colourspace="DeviceGray" ncolour="0" size="8.880">4</text>
+                <text font="Times New Roman,Bold" bbox="95.880,91.202,100.320,100.082" colourspace="DeviceGray" ncolour="0" size="8.880">8</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="91.440,79.442,100.320,88.322">
+                <text font="Times New Roman,Bold" bbox="91.440,79.442,95.880,88.322" colourspace="DeviceGray" ncolour="0" size="8.880">4</text>
+                <text font="Times New Roman,Bold" bbox="95.880,79.442,100.320,88.322" colourspace="DeviceGray" ncolour="0" size="8.880">9</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="91.440,67.682,100.320,76.562">
+                <text font="Times New Roman,Bold" bbox="91.440,67.682,95.880,76.562" colourspace="DeviceGray" ncolour="0" size="8.880">5</text>
+                <text font="Times New Roman,Bold" bbox="95.880,67.682,100.320,76.562" colourspace="DeviceGray" ncolour="0" size="8.880">0</text>
+                <text>
+                </text>
+            </textline>
+        </textbox>
+        <textbox id="12" bbox="179.060,67.802,192.380,664.782">
+            <textline bbox="181.340,655.902,190.220,664.782">
+                <text font="Times New Roman" bbox="181.340,655.902,185.780,664.782" colourspace="DeviceGray" ncolour="0" size="8.880">6</text>
+                <text font="Times New Roman" bbox="185.780,655.902,190.220,664.782" colourspace="DeviceGray" ncolour="0" size="8.880">9</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="181.340,644.142,190.220,653.022">
+                <text font="Times New Roman" bbox="181.340,644.142,185.780,653.022" colourspace="DeviceGray" ncolour="0" size="8.880">7</text>
+                <text font="Times New Roman" bbox="185.780,644.142,190.220,653.022" colourspace="DeviceGray" ncolour="0" size="8.880">0</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="181.340,632.382,190.220,641.262">
+                <text font="Times New Roman" bbox="181.340,632.382,185.780,641.262" colourspace="DeviceGray" ncolour="0" size="8.880">7</text>
+                <text font="Times New Roman" bbox="185.780,632.382,190.220,641.262" colourspace="DeviceGray" ncolour="0" size="8.880">2</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="181.340,620.622,190.220,629.502">
+                <text font="Times New Roman" bbox="181.340,620.622,185.780,629.502" colourspace="DeviceGray" ncolour="0" size="8.880">7</text>
+                <text font="Times New Roman" bbox="185.780,620.622,190.220,629.502" colourspace="DeviceGray" ncolour="0" size="8.880">5</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="181.340,608.862,190.220,617.742">
+                <text font="Times New Roman" bbox="181.340,608.862,185.780,617.742" colourspace="DeviceGray" ncolour="0" size="8.880">7</text>
+                <text font="Times New Roman" bbox="185.780,608.862,190.220,617.742" colourspace="DeviceGray" ncolour="0" size="8.880">7</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="181.340,597.102,190.220,605.982">
+                <text font="Times New Roman" bbox="181.340,597.102,185.780,605.982" colourspace="DeviceGray" ncolour="0" size="8.880">7</text>
+                <text font="Times New Roman" bbox="185.780,597.102,190.220,605.982" colourspace="DeviceGray" ncolour="0" size="8.880">9</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="181.340,585.342,190.220,594.222">
+                <text font="Times New Roman" bbox="181.340,585.342,185.780,594.222" colourspace="DeviceGray" ncolour="0" size="8.880">8</text>
+                <text font="Times New Roman" bbox="185.780,585.342,190.220,594.222" colourspace="DeviceGray" ncolour="0" size="8.880">2</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="181.340,573.582,190.220,582.462">
+                <text font="Times New Roman" bbox="181.340,573.582,185.780,582.462" colourspace="DeviceGray" ncolour="0" size="8.880">8</text>
+                <text font="Times New Roman" bbox="185.780,573.582,190.220,582.462" colourspace="DeviceGray" ncolour="0" size="8.880">4</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="181.340,561.822,190.220,570.702">
+                <text font="Times New Roman" bbox="181.340,561.822,185.780,570.702" colourspace="DeviceGray" ncolour="0" size="8.880">8</text>
+                <text font="Times New Roman" bbox="185.780,561.822,190.220,570.702" colourspace="DeviceGray" ncolour="0" size="8.880">7</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="181.340,550.062,190.220,558.942">
+                <text font="Times New Roman" bbox="181.340,550.062,185.780,558.942" colourspace="DeviceGray" ncolour="0" size="8.880">9</text>
+                <text font="Times New Roman" bbox="185.780,550.062,190.220,558.942" colourspace="DeviceGray" ncolour="0" size="8.880">0</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="181.340,538.272,190.220,547.152">
+                <text font="Times New Roman" bbox="181.340,538.272,185.780,547.152" colourspace="DeviceGray" ncolour="0" size="8.880">9</text>
+                <text font="Times New Roman" bbox="185.780,538.272,190.220,547.152" colourspace="DeviceGray" ncolour="0" size="8.880">3</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="181.340,526.512,190.220,535.392">
+                <text font="Times New Roman" bbox="181.340,526.512,185.780,535.392" colourspace="DeviceGray" ncolour="0" size="8.880">9</text>
+                <text font="Times New Roman" bbox="185.780,526.512,190.220,535.392" colourspace="DeviceGray" ncolour="0" size="8.880">6</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="181.340,514.752,190.220,523.632">
+                <text font="Times New Roman" bbox="181.340,514.752,185.780,523.632" colourspace="DeviceGray" ncolour="0" size="8.880">9</text>
+                <text font="Times New Roman" bbox="185.780,514.752,190.220,523.632" colourspace="DeviceGray" ncolour="0" size="8.880">9</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="179.060,502.992,192.380,511.872">
+                <text font="Times New Roman" bbox="179.060,502.992,183.500,511.872" colourspace="DeviceGray" ncolour="0" size="8.880">1</text>
+                <text font="Times New Roman" bbox="183.500,502.992,187.940,511.872" colourspace="DeviceGray" ncolour="0" size="8.880">0</text>
+                <text font="Times New Roman" bbox="187.940,502.992,192.380,511.872" colourspace="DeviceGray" ncolour="0" size="8.880">3</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="179.060,491.232,192.380,500.112">
+                <text font="Times New Roman" bbox="179.060,491.232,183.500,500.112" colourspace="DeviceGray" ncolour="0" size="8.880">1</text>
+                <text font="Times New Roman" bbox="183.500,491.232,187.940,500.112" colourspace="DeviceGray" ncolour="0" size="8.880">0</text>
+                <text font="Times New Roman" bbox="187.940,491.232,192.380,500.112" colourspace="DeviceGray" ncolour="0" size="8.880">6</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="179.060,479.472,192.380,488.352">
+                <text font="Times New Roman" bbox="179.060,479.472,183.500,488.352" colourspace="DeviceGray" ncolour="0" size="8.880">1</text>
+                <text font="Times New Roman" bbox="183.500,479.472,187.940,488.352" colourspace="DeviceGray" ncolour="0" size="8.880">1</text>
+                <text font="Times New Roman" bbox="187.940,479.472,192.380,488.352" colourspace="DeviceGray" ncolour="0" size="8.880">0</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="179.060,467.712,192.380,476.592">
+                <text font="Times New Roman" bbox="179.060,467.712,183.500,476.592" colourspace="DeviceGray" ncolour="0" size="8.880">1</text>
+                <text font="Times New Roman" bbox="183.500,467.712,187.940,476.592" colourspace="DeviceGray" ncolour="0" size="8.880">1</text>
+                <text font="Times New Roman" bbox="187.940,467.712,192.380,476.592" colourspace="DeviceGray" ncolour="0" size="8.880">4</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="179.060,455.952,192.380,464.832">
+                <text font="Times New Roman" bbox="179.060,455.952,183.500,464.832" colourspace="DeviceGray" ncolour="0" size="8.880">1</text>
+                <text font="Times New Roman" bbox="183.500,455.952,187.940,464.832" colourspace="DeviceGray" ncolour="0" size="8.880">1</text>
+                <text font="Times New Roman" bbox="187.940,455.952,192.380,464.832" colourspace="DeviceGray" ncolour="0" size="8.880">8</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="179.060,444.192,192.380,453.072">
+                <text font="Times New Roman" bbox="179.060,444.192,183.500,453.072" colourspace="DeviceGray" ncolour="0" size="8.880">1</text>
+                <text font="Times New Roman" bbox="183.500,444.192,187.940,453.072" colourspace="DeviceGray" ncolour="0" size="8.880">2</text>
+                <text font="Times New Roman" bbox="187.940,444.192,192.380,453.072" colourspace="DeviceGray" ncolour="0" size="8.880">2</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="179.060,432.432,192.380,441.312">
+                <text font="Times New Roman" bbox="179.060,432.432,183.500,441.312" colourspace="DeviceGray" ncolour="0" size="8.880">1</text>
+                <text font="Times New Roman" bbox="183.500,432.432,187.940,441.312" colourspace="DeviceGray" ncolour="0" size="8.880">2</text>
+                <text font="Times New Roman" bbox="187.940,432.432,192.380,441.312" colourspace="DeviceGray" ncolour="0" size="8.880">6</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="179.060,420.672,192.380,429.552">
+                <text font="Times New Roman" bbox="179.060,420.672,183.500,429.552" colourspace="DeviceGray" ncolour="0" size="8.880">1</text>
+                <text font="Times New Roman" bbox="183.500,420.672,187.940,429.552" colourspace="DeviceGray" ncolour="0" size="8.880">3</text>
+                <text font="Times New Roman" bbox="187.940,420.672,192.380,429.552" colourspace="DeviceGray" ncolour="0" size="8.880">0</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="179.060,408.912,192.380,417.792">
+                <text font="Times New Roman" bbox="179.060,408.912,183.500,417.792" colourspace="DeviceGray" ncolour="0" size="8.880">1</text>
+                <text font="Times New Roman" bbox="183.500,408.912,187.940,417.792" colourspace="DeviceGray" ncolour="0" size="8.880">3</text>
+                <text font="Times New Roman" bbox="187.940,408.912,192.380,417.792" colourspace="DeviceGray" ncolour="0" size="8.880">5</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="179.060,397.132,192.380,406.012">
+                <text font="Times New Roman" bbox="179.060,397.132,183.500,406.012" colourspace="DeviceGray" ncolour="0" size="8.880">1</text>
+                <text font="Times New Roman" bbox="183.500,397.132,187.940,406.012" colourspace="DeviceGray" ncolour="0" size="8.880">3</text>
+                <text font="Times New Roman" bbox="187.940,397.132,192.380,406.012" colourspace="DeviceGray" ncolour="0" size="8.880">9</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="179.060,385.372,192.380,394.252">
+                <text font="Times New Roman" bbox="179.060,385.372,183.500,394.252" colourspace="DeviceGray" ncolour="0" size="8.880">1</text>
+                <text font="Times New Roman" bbox="183.500,385.372,187.940,394.252" colourspace="DeviceGray" ncolour="0" size="8.880">4</text>
+                <text font="Times New Roman" bbox="187.940,385.372,192.380,394.252" colourspace="DeviceGray" ncolour="0" size="8.880">4</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="179.060,373.612,192.380,382.492">
+                <text font="Times New Roman" bbox="179.060,373.612,183.500,382.492" colourspace="DeviceGray" ncolour="0" size="8.880">1</text>
+                <text font="Times New Roman" bbox="183.500,373.612,187.940,382.492" colourspace="DeviceGray" ncolour="0" size="8.880">4</text>
+                <text font="Times New Roman" bbox="187.940,373.612,192.380,382.492" colourspace="DeviceGray" ncolour="0" size="8.880">9</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="179.060,361.852,192.380,370.732">
+                <text font="Times New Roman" bbox="179.060,361.852,183.500,370.732" colourspace="DeviceGray" ncolour="0" size="8.880">1</text>
+                <text font="Times New Roman" bbox="183.500,361.852,187.940,370.732" colourspace="DeviceGray" ncolour="0" size="8.880">5</text>
+                <text font="Times New Roman" bbox="187.940,361.852,192.380,370.732" colourspace="DeviceGray" ncolour="0" size="8.880">5</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="179.060,350.092,192.380,358.972">
+                <text font="Times New Roman" bbox="179.060,350.092,183.500,358.972" colourspace="DeviceGray" ncolour="0" size="8.880">1</text>
+                <text font="Times New Roman" bbox="183.500,350.092,187.940,358.972" colourspace="DeviceGray" ncolour="0" size="8.880">6</text>
+                <text font="Times New Roman" bbox="187.940,350.092,192.380,358.972" colourspace="DeviceGray" ncolour="0" size="8.880">0</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="179.060,338.332,192.380,347.212">
+                <text font="Times New Roman" bbox="179.060,338.332,183.500,347.212" colourspace="DeviceGray" ncolour="0" size="8.880">1</text>
+                <text font="Times New Roman" bbox="183.500,338.332,187.940,347.212" colourspace="DeviceGray" ncolour="0" size="8.880">6</text>
+                <text font="Times New Roman" bbox="187.940,338.332,192.380,347.212" colourspace="DeviceGray" ncolour="0" size="8.880">6</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="179.060,326.572,192.380,335.452">
+                <text font="Times New Roman" bbox="179.060,326.572,183.500,335.452" colourspace="DeviceGray" ncolour="0" size="8.880">1</text>
+                <text font="Times New Roman" bbox="183.500,326.572,187.940,335.452" colourspace="DeviceGray" ncolour="0" size="8.880">7</text>
+                <text font="Times New Roman" bbox="187.940,326.572,192.380,335.452" colourspace="DeviceGray" ncolour="0" size="8.880">2</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="179.060,314.812,192.380,323.692">
+                <text font="Times New Roman" bbox="179.060,314.812,183.500,323.692" colourspace="DeviceGray" ncolour="0" size="8.880">1</text>
+                <text font="Times New Roman" bbox="183.500,314.812,187.940,323.692" colourspace="DeviceGray" ncolour="0" size="8.880">7</text>
+                <text font="Times New Roman" bbox="187.940,314.812,192.380,323.692" colourspace="DeviceGray" ncolour="0" size="8.880">9</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="179.060,303.052,192.380,311.932">
+                <text font="Times New Roman" bbox="179.060,303.052,183.500,311.932" colourspace="DeviceGray" ncolour="0" size="8.880">1</text>
+                <text font="Times New Roman" bbox="183.500,303.052,187.940,311.932" colourspace="DeviceGray" ncolour="0" size="8.880">8</text>
+                <text font="Times New Roman" bbox="187.940,303.052,192.380,311.932" colourspace="DeviceGray" ncolour="0" size="8.880">5</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="179.060,291.292,192.380,300.172">
+                <text font="Times New Roman" bbox="179.060,291.292,183.500,300.172" colourspace="DeviceGray" ncolour="0" size="8.880">1</text>
+                <text font="Times New Roman" bbox="183.500,291.292,187.940,300.172" colourspace="DeviceGray" ncolour="0" size="8.880">9</text>
+                <text font="Times New Roman" bbox="187.940,291.292,192.380,300.172" colourspace="DeviceGray" ncolour="0" size="8.880">2</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="179.060,279.532,192.380,288.412">
+                <text font="Times New Roman" bbox="179.060,279.532,183.500,288.412" colourspace="DeviceGray" ncolour="0" size="8.880">2</text>
+                <text font="Times New Roman" bbox="183.500,279.532,187.940,288.412" colourspace="DeviceGray" ncolour="0" size="8.880">0</text>
+                <text font="Times New Roman" bbox="187.940,279.532,192.380,288.412" colourspace="DeviceGray" ncolour="0" size="8.880">0</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="179.060,267.772,192.380,276.652">
+                <text font="Times New Roman" bbox="179.060,267.772,183.500,276.652" colourspace="DeviceGray" ncolour="0" size="8.880">2</text>
+                <text font="Times New Roman" bbox="183.500,267.772,187.940,276.652" colourspace="DeviceGray" ncolour="0" size="8.880">0</text>
+                <text font="Times New Roman" bbox="187.940,267.772,192.380,276.652" colourspace="DeviceGray" ncolour="0" size="8.880">8</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="179.060,256.012,192.380,264.892">
+                <text font="Times New Roman" bbox="179.060,256.012,183.500,264.892" colourspace="DeviceGray" ncolour="0" size="8.880">2</text>
+                <text font="Times New Roman" bbox="183.500,256.012,187.940,264.892" colourspace="DeviceGray" ncolour="0" size="8.880">1</text>
+                <text font="Times New Roman" bbox="187.940,256.012,192.380,264.892" colourspace="DeviceGray" ncolour="0" size="8.880">6</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="179.060,244.222,192.380,253.102">
+                <text font="Times New Roman" bbox="179.060,244.222,183.500,253.102" colourspace="DeviceGray" ncolour="0" size="8.880">2</text>
+                <text font="Times New Roman" bbox="183.500,244.222,187.940,253.102" colourspace="DeviceGray" ncolour="0" size="8.880">2</text>
+                <text font="Times New Roman" bbox="187.940,244.222,192.380,253.102" colourspace="DeviceGray" ncolour="0" size="8.880">4</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="179.060,232.462,192.380,241.342">
+                <text font="Times New Roman" bbox="179.060,232.462,183.500,241.342" colourspace="DeviceGray" ncolour="0" size="8.880">2</text>
+                <text font="Times New Roman" bbox="183.500,232.462,187.940,241.342" colourspace="DeviceGray" ncolour="0" size="8.880">3</text>
+                <text font="Times New Roman" bbox="187.940,232.462,192.380,241.342" colourspace="DeviceGray" ncolour="0" size="8.880">4</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="179.060,220.702,192.380,229.582">
+                <text font="Times New Roman" bbox="179.060,220.702,183.500,229.582" colourspace="DeviceGray" ncolour="0" size="8.880">2</text>
+                <text font="Times New Roman" bbox="183.500,220.702,187.940,229.582" colourspace="DeviceGray" ncolour="0" size="8.880">4</text>
+                <text font="Times New Roman" bbox="187.940,220.702,192.380,229.582" colourspace="DeviceGray" ncolour="0" size="8.880">3</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="179.060,208.942,192.380,217.822">
+                <text font="Times New Roman" bbox="179.060,208.942,183.500,217.822" colourspace="DeviceGray" ncolour="0" size="8.880">2</text>
+                <text font="Times New Roman" bbox="183.500,208.942,187.940,217.822" colourspace="DeviceGray" ncolour="0" size="8.880">5</text>
+                <text font="Times New Roman" bbox="187.940,208.942,192.380,217.822" colourspace="DeviceGray" ncolour="0" size="8.880">3</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="179.060,197.182,192.380,206.062">
+                <text font="Times New Roman" bbox="179.060,197.182,183.500,206.062" colourspace="DeviceGray" ncolour="0" size="8.880">2</text>
+                <text font="Times New Roman" bbox="183.500,197.182,187.940,206.062" colourspace="DeviceGray" ncolour="0" size="8.880">6</text>
+                <text font="Times New Roman" bbox="187.940,197.182,192.380,206.062" colourspace="DeviceGray" ncolour="0" size="8.880">4</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="179.060,185.422,192.380,194.302">
+                <text font="Times New Roman" bbox="179.060,185.422,183.500,194.302" colourspace="DeviceGray" ncolour="0" size="8.880">2</text>
+                <text font="Times New Roman" bbox="183.500,185.422,187.940,194.302" colourspace="DeviceGray" ncolour="0" size="8.880">7</text>
+                <text font="Times New Roman" bbox="187.940,185.422,192.380,194.302" colourspace="DeviceGray" ncolour="0" size="8.880">5</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="179.060,173.662,192.380,182.542">
+                <text font="Times New Roman" bbox="179.060,173.662,183.500,182.542" colourspace="DeviceGray" ncolour="0" size="8.880">2</text>
+                <text font="Times New Roman" bbox="183.500,173.662,187.940,182.542" colourspace="DeviceGray" ncolour="0" size="8.880">9</text>
+                <text font="Times New Roman" bbox="187.940,173.662,192.380,182.542" colourspace="DeviceGray" ncolour="0" size="8.880">5</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="179.060,161.902,192.380,170.782">
+                <text font="Times New Roman" bbox="179.060,161.902,183.500,170.782" colourspace="DeviceGray" ncolour="0" size="8.880">3</text>
+                <text font="Times New Roman" bbox="183.500,161.902,187.940,170.782" colourspace="DeviceGray" ncolour="0" size="8.880">2</text>
+                <text font="Times New Roman" bbox="187.940,161.902,192.380,170.782" colourspace="DeviceGray" ncolour="0" size="8.880">6</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="179.060,150.142,192.380,159.022">
+                <text font="Times New Roman" bbox="179.060,150.142,183.500,159.022" colourspace="DeviceGray" ncolour="0" size="8.880">3</text>
+                <text font="Times New Roman" bbox="183.500,150.142,187.940,159.022" colourspace="DeviceGray" ncolour="0" size="8.880">6</text>
+                <text font="Times New Roman" bbox="187.940,150.142,192.380,159.022" colourspace="DeviceGray" ncolour="0" size="8.880">2</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="179.060,138.382,192.380,147.262">
+                <text font="Times New Roman" bbox="179.060,138.382,183.500,147.262" colourspace="DeviceGray" ncolour="0" size="8.880">4</text>
+                <text font="Times New Roman" bbox="183.500,138.382,187.940,147.262" colourspace="DeviceGray" ncolour="0" size="8.880">0</text>
+                <text font="Times New Roman" bbox="187.940,138.382,192.380,147.262" colourspace="DeviceGray" ncolour="0" size="8.880">4</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="179.060,126.622,192.380,135.502">
+                <text font="Times New Roman" bbox="179.060,126.622,183.500,135.502" colourspace="DeviceGray" ncolour="0" size="8.880">4</text>
+                <text font="Times New Roman" bbox="183.500,126.622,187.940,135.502" colourspace="DeviceGray" ncolour="0" size="8.880">5</text>
+                <text font="Times New Roman" bbox="187.940,126.622,192.380,135.502" colourspace="DeviceGray" ncolour="0" size="8.880">4</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="179.060,114.862,192.380,123.742">
+                <text font="Times New Roman" bbox="179.060,114.862,183.500,123.742" colourspace="DeviceGray" ncolour="0" size="8.880">3</text>
+                <text font="Times New Roman" bbox="183.500,114.862,187.940,123.742" colourspace="DeviceGray" ncolour="0" size="8.880">9</text>
+                <text font="Times New Roman" bbox="187.940,114.862,192.380,123.742" colourspace="DeviceGray" ncolour="0" size="8.880">9</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="179.060,103.082,192.380,111.962">
+                <text font="Times New Roman" bbox="179.060,103.082,183.500,111.962" colourspace="DeviceGray" ncolour="0" size="8.880">4</text>
+                <text font="Times New Roman" bbox="183.500,103.082,187.940,111.962" colourspace="DeviceGray" ncolour="0" size="8.880">4</text>
+                <text font="Times New Roman" bbox="187.940,103.082,192.380,111.962" colourspace="DeviceGray" ncolour="0" size="8.880">0</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="179.060,91.322,192.380,100.202">
+                <text font="Times New Roman" bbox="179.060,91.322,183.500,100.202" colourspace="DeviceGray" ncolour="0" size="8.880">4</text>
+                <text font="Times New Roman" bbox="183.500,91.322,187.940,100.202" colourspace="DeviceGray" ncolour="0" size="8.880">8</text>
+                <text font="Times New Roman" bbox="187.940,91.322,192.380,100.202" colourspace="DeviceGray" ncolour="0" size="8.880">9</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="179.060,79.562,192.380,88.442">
+                <text font="Times New Roman" bbox="179.060,79.562,183.500,88.442" colourspace="DeviceGray" ncolour="0" size="8.880">5</text>
+                <text font="Times New Roman" bbox="183.500,79.562,187.940,88.442" colourspace="DeviceGray" ncolour="0" size="8.880">4</text>
+                <text font="Times New Roman" bbox="187.940,79.562,192.380,88.442" colourspace="DeviceGray" ncolour="0" size="8.880">5</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="179.060,67.802,192.380,76.682">
+                <text font="Times New Roman" bbox="179.060,67.802,183.500,76.682" colourspace="DeviceGray" ncolour="0" size="8.880">6</text>
+                <text font="Times New Roman" bbox="183.500,67.802,187.940,76.682" colourspace="DeviceGray" ncolour="0" size="8.880">1</text>
+                <text font="Times New Roman" bbox="187.940,67.802,192.380,76.682" colourspace="DeviceGray" ncolour="0" size="8.880">0</text>
+                <text>
+                </text>
+            </textline>
+        </textbox>
+        <textbox id="13" bbox="279.890,67.802,293.210,664.782">
+            <textline bbox="282.170,655.902,291.050,664.782">
+                <text font="Times New Roman" bbox="282.170,655.902,286.610,664.782" colourspace="DeviceGray" ncolour="0" size="8.880">8</text>
+                <text font="Times New Roman" bbox="286.610,655.902,291.050,664.782" colourspace="DeviceGray" ncolour="0" size="8.880">5</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="282.170,644.142,291.050,653.022">
+                <text font="Times New Roman" bbox="282.170,644.142,286.610,653.022" colourspace="DeviceGray" ncolour="0" size="8.880">8</text>
+                <text font="Times New Roman" bbox="286.610,644.142,291.050,653.022" colourspace="DeviceGray" ncolour="0" size="8.880">7</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="282.170,632.382,291.050,641.262">
+                <text font="Times New Roman" bbox="282.170,632.382,286.610,641.262" colourspace="DeviceGray" ncolour="0" size="8.880">9</text>
+                <text font="Times New Roman" bbox="286.610,632.382,291.050,641.262" colourspace="DeviceGray" ncolour="0" size="8.880">0</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="282.170,620.622,291.050,629.502">
+                <text font="Times New Roman" bbox="282.170,620.622,286.610,629.502" colourspace="DeviceGray" ncolour="0" size="8.880">9</text>
+                <text font="Times New Roman" bbox="286.610,620.622,291.050,629.502" colourspace="DeviceGray" ncolour="0" size="8.880">2</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="282.170,608.862,291.050,617.742">
+                <text font="Times New Roman" bbox="282.170,608.862,286.610,617.742" colourspace="DeviceGray" ncolour="0" size="8.880">9</text>
+                <text font="Times New Roman" bbox="286.610,608.862,291.050,617.742" colourspace="DeviceGray" ncolour="0" size="8.880">4</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="282.170,597.102,291.050,605.982">
+                <text font="Times New Roman" bbox="282.170,597.102,286.610,605.982" colourspace="DeviceGray" ncolour="0" size="8.880">9</text>
+                <text font="Times New Roman" bbox="286.610,597.102,291.050,605.982" colourspace="DeviceGray" ncolour="0" size="8.880">7</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="279.890,585.342,293.210,594.222">
+                <text font="Times New Roman" bbox="279.890,585.342,284.330,594.222" colourspace="DeviceGray" ncolour="0" size="8.880">1</text>
+                <text font="Times New Roman" bbox="284.330,585.342,288.770,594.222" colourspace="DeviceGray" ncolour="0" size="8.880">0</text>
+                <text font="Times New Roman" bbox="288.770,585.342,293.210,594.222" colourspace="DeviceGray" ncolour="0" size="8.880">0</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="279.890,573.582,293.210,582.462">
+                <text font="Times New Roman" bbox="279.890,573.582,284.330,582.462" colourspace="DeviceGray" ncolour="0" size="8.880">1</text>
+                <text font="Times New Roman" bbox="284.330,573.582,288.770,582.462" colourspace="DeviceGray" ncolour="0" size="8.880">0</text>
+                <text font="Times New Roman" bbox="288.770,573.582,293.210,582.462" colourspace="DeviceGray" ncolour="0" size="8.880">2</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="279.890,561.822,293.210,570.702">
+                <text font="Times New Roman" bbox="279.890,561.822,284.330,570.702" colourspace="DeviceGray" ncolour="0" size="8.880">1</text>
+                <text font="Times New Roman" bbox="284.330,561.822,288.770,570.702" colourspace="DeviceGray" ncolour="0" size="8.880">0</text>
+                <text font="Times New Roman" bbox="288.770,561.822,293.210,570.702" colourspace="DeviceGray" ncolour="0" size="8.880">5</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="279.890,550.062,293.210,558.942">
+                <text font="Times New Roman" bbox="279.890,550.062,284.330,558.942" colourspace="DeviceGray" ncolour="0" size="8.880">1</text>
+                <text font="Times New Roman" bbox="284.330,550.062,288.770,558.942" colourspace="DeviceGray" ncolour="0" size="8.880">0</text>
+                <text font="Times New Roman" bbox="288.770,550.062,293.210,558.942" colourspace="DeviceGray" ncolour="0" size="8.880">8</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="279.890,538.272,293.210,547.152">
+                <text font="Times New Roman" bbox="279.890,538.272,284.330,547.152" colourspace="DeviceGray" ncolour="0" size="8.880">1</text>
+                <text font="Times New Roman" bbox="284.330,538.272,288.770,547.152" colourspace="DeviceGray" ncolour="0" size="8.880">1</text>
+                <text font="Times New Roman" bbox="288.770,538.272,293.210,547.152" colourspace="DeviceGray" ncolour="0" size="8.880">1</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="279.890,526.512,293.210,535.392">
+                <text font="Times New Roman" bbox="279.890,526.512,284.330,535.392" colourspace="DeviceGray" ncolour="0" size="8.880">1</text>
+                <text font="Times New Roman" bbox="284.330,526.512,288.770,535.392" colourspace="DeviceGray" ncolour="0" size="8.880">1</text>
+                <text font="Times New Roman" bbox="288.770,526.512,293.210,535.392" colourspace="DeviceGray" ncolour="0" size="8.880">5</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="279.890,514.752,293.210,523.632">
+                <text font="Times New Roman" bbox="279.890,514.752,284.330,523.632" colourspace="DeviceGray" ncolour="0" size="8.880">1</text>
+                <text font="Times New Roman" bbox="284.330,514.752,288.770,523.632" colourspace="DeviceGray" ncolour="0" size="8.880">1</text>
+                <text font="Times New Roman" bbox="288.770,514.752,293.210,523.632" colourspace="DeviceGray" ncolour="0" size="8.880">8</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="279.890,502.992,293.210,511.872">
+                <text font="Times New Roman" bbox="279.890,502.992,284.330,511.872" colourspace="DeviceGray" ncolour="0" size="8.880">1</text>
+                <text font="Times New Roman" bbox="284.330,502.992,288.770,511.872" colourspace="DeviceGray" ncolour="0" size="8.880">2</text>
+                <text font="Times New Roman" bbox="288.770,502.992,293.210,511.872" colourspace="DeviceGray" ncolour="0" size="8.880">1</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="279.890,491.232,293.210,500.112">
+                <text font="Times New Roman" bbox="279.890,491.232,284.330,500.112" colourspace="DeviceGray" ncolour="0" size="8.880">1</text>
+                <text font="Times New Roman" bbox="284.330,491.232,288.770,500.112" colourspace="DeviceGray" ncolour="0" size="8.880">2</text>
+                <text font="Times New Roman" bbox="288.770,491.232,293.210,500.112" colourspace="DeviceGray" ncolour="0" size="8.880">5</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="279.890,479.472,293.210,488.352">
+                <text font="Times New Roman" bbox="279.890,479.472,284.330,488.352" colourspace="DeviceGray" ncolour="0" size="8.880">1</text>
+                <text font="Times New Roman" bbox="284.330,479.472,288.770,488.352" colourspace="DeviceGray" ncolour="0" size="8.880">2</text>
+                <text font="Times New Roman" bbox="288.770,479.472,293.210,488.352" colourspace="DeviceGray" ncolour="0" size="8.880">8</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="279.890,467.712,293.210,476.592">
+                <text font="Times New Roman" bbox="279.890,467.712,284.330,476.592" colourspace="DeviceGray" ncolour="0" size="8.880">1</text>
+                <text font="Times New Roman" bbox="284.330,467.712,288.770,476.592" colourspace="DeviceGray" ncolour="0" size="8.880">3</text>
+                <text font="Times New Roman" bbox="288.770,467.712,293.210,476.592" colourspace="DeviceGray" ncolour="0" size="8.880">2</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="279.890,455.952,293.210,464.832">
+                <text font="Times New Roman" bbox="279.890,455.952,284.330,464.832" colourspace="DeviceGray" ncolour="0" size="8.880">1</text>
+                <text font="Times New Roman" bbox="284.330,455.952,288.770,464.832" colourspace="DeviceGray" ncolour="0" size="8.880">3</text>
+                <text font="Times New Roman" bbox="288.770,455.952,293.210,464.832" colourspace="DeviceGray" ncolour="0" size="8.880">6</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="279.890,444.192,293.210,453.072">
+                <text font="Times New Roman" bbox="279.890,444.192,284.330,453.072" colourspace="DeviceGray" ncolour="0" size="8.880">1</text>
+                <text font="Times New Roman" bbox="284.330,444.192,288.770,453.072" colourspace="DeviceGray" ncolour="0" size="8.880">4</text>
+                <text font="Times New Roman" bbox="288.770,444.192,293.210,453.072" colourspace="DeviceGray" ncolour="0" size="8.880">0</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="279.890,432.432,293.210,441.312">
+                <text font="Times New Roman" bbox="279.890,432.432,284.330,441.312" colourspace="DeviceGray" ncolour="0" size="8.880">1</text>
+                <text font="Times New Roman" bbox="284.330,432.432,288.770,441.312" colourspace="DeviceGray" ncolour="0" size="8.880">4</text>
+                <text font="Times New Roman" bbox="288.770,432.432,293.210,441.312" colourspace="DeviceGray" ncolour="0" size="8.880">3</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="279.890,420.672,293.210,429.552">
+                <text font="Times New Roman" bbox="279.890,420.672,284.330,429.552" colourspace="DeviceGray" ncolour="0" size="8.880">1</text>
+                <text font="Times New Roman" bbox="284.330,420.672,288.770,429.552" colourspace="DeviceGray" ncolour="0" size="8.880">4</text>
+                <text font="Times New Roman" bbox="288.770,420.672,293.210,429.552" colourspace="DeviceGray" ncolour="0" size="8.880">7</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="279.890,408.912,293.210,417.792">
+                <text font="Times New Roman" bbox="279.890,408.912,284.330,417.792" colourspace="DeviceGray" ncolour="0" size="8.880">1</text>
+                <text font="Times New Roman" bbox="284.330,408.912,288.770,417.792" colourspace="DeviceGray" ncolour="0" size="8.880">5</text>
+                <text font="Times New Roman" bbox="288.770,408.912,293.210,417.792" colourspace="DeviceGray" ncolour="0" size="8.880">2</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="279.890,397.132,293.210,406.012">
+                <text font="Times New Roman" bbox="279.890,397.132,284.330,406.012" colourspace="DeviceGray" ncolour="0" size="8.880">1</text>
+                <text font="Times New Roman" bbox="284.330,397.132,288.770,406.012" colourspace="DeviceGray" ncolour="0" size="8.880">5</text>
+                <text font="Times New Roman" bbox="288.770,397.132,293.210,406.012" colourspace="DeviceGray" ncolour="0" size="8.880">6</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="279.890,385.372,293.210,394.252">
+                <text font="Times New Roman" bbox="279.890,385.372,284.330,394.252" colourspace="DeviceGray" ncolour="0" size="8.880">1</text>
+                <text font="Times New Roman" bbox="284.330,385.372,288.770,394.252" colourspace="DeviceGray" ncolour="0" size="8.880">6</text>
+                <text font="Times New Roman" bbox="288.770,385.372,293.210,394.252" colourspace="DeviceGray" ncolour="0" size="8.880">0</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="279.890,373.612,293.210,382.492">
+                <text font="Times New Roman" bbox="279.890,373.612,284.330,382.492" colourspace="DeviceGray" ncolour="0" size="8.880">1</text>
+                <text font="Times New Roman" bbox="284.330,373.612,288.770,382.492" colourspace="DeviceGray" ncolour="0" size="8.880">6</text>
+                <text font="Times New Roman" bbox="288.770,373.612,293.210,382.492" colourspace="DeviceGray" ncolour="0" size="8.880">5</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="279.890,361.852,293.210,370.732">
+                <text font="Times New Roman" bbox="279.890,361.852,284.330,370.732" colourspace="DeviceGray" ncolour="0" size="8.880">1</text>
+                <text font="Times New Roman" bbox="284.330,361.852,288.770,370.732" colourspace="DeviceGray" ncolour="0" size="8.880">6</text>
+                <text font="Times New Roman" bbox="288.770,361.852,293.210,370.732" colourspace="DeviceGray" ncolour="0" size="8.880">9</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="279.890,350.092,293.210,358.972">
+                <text font="Times New Roman" bbox="279.890,350.092,284.330,358.972" colourspace="DeviceGray" ncolour="0" size="8.880">1</text>
+                <text font="Times New Roman" bbox="284.330,350.092,288.770,358.972" colourspace="DeviceGray" ncolour="0" size="8.880">7</text>
+                <text font="Times New Roman" bbox="288.770,350.092,293.210,358.972" colourspace="DeviceGray" ncolour="0" size="8.880">4</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="279.890,338.332,293.210,347.212">
+                <text font="Times New Roman" bbox="279.890,338.332,284.330,347.212" colourspace="DeviceGray" ncolour="0" size="8.880">1</text>
+                <text font="Times New Roman" bbox="284.330,338.332,288.770,347.212" colourspace="DeviceGray" ncolour="0" size="8.880">7</text>
+                <text font="Times New Roman" bbox="288.770,338.332,293.210,347.212" colourspace="DeviceGray" ncolour="0" size="8.880">9</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="279.890,326.572,293.210,335.452">
+                <text font="Times New Roman" bbox="279.890,326.572,284.330,335.452" colourspace="DeviceGray" ncolour="0" size="8.880">1</text>
+                <text font="Times New Roman" bbox="284.330,326.572,288.770,335.452" colourspace="DeviceGray" ncolour="0" size="8.880">8</text>
+                <text font="Times New Roman" bbox="288.770,326.572,293.210,335.452" colourspace="DeviceGray" ncolour="0" size="8.880">4</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="279.890,314.812,293.210,323.692">
+                <text font="Times New Roman" bbox="279.890,314.812,284.330,323.692" colourspace="DeviceGray" ncolour="0" size="8.880">1</text>
+                <text font="Times New Roman" bbox="284.330,314.812,288.770,323.692" colourspace="DeviceGray" ncolour="0" size="8.880">8</text>
+                <text font="Times New Roman" bbox="288.770,314.812,293.210,323.692" colourspace="DeviceGray" ncolour="0" size="8.880">9</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="279.890,303.052,293.210,311.932">
+                <text font="Times New Roman" bbox="279.890,303.052,284.330,311.932" colourspace="DeviceGray" ncolour="0" size="8.880">1</text>
+                <text font="Times New Roman" bbox="284.330,303.052,288.770,311.932" colourspace="DeviceGray" ncolour="0" size="8.880">9</text>
+                <text font="Times New Roman" bbox="288.770,303.052,293.210,311.932" colourspace="DeviceGray" ncolour="0" size="8.880">4</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="279.890,291.292,293.210,300.172">
+                <text font="Times New Roman" bbox="279.890,291.292,284.330,300.172" colourspace="DeviceGray" ncolour="0" size="8.880">2</text>
+                <text font="Times New Roman" bbox="284.330,291.292,288.770,300.172" colourspace="DeviceGray" ncolour="0" size="8.880">0</text>
+                <text font="Times New Roman" bbox="288.770,291.292,293.210,300.172" colourspace="DeviceGray" ncolour="0" size="8.880">0</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="279.890,279.532,293.210,288.412">
+                <text font="Times New Roman" bbox="279.890,279.532,284.330,288.412" colourspace="DeviceGray" ncolour="0" size="8.880">2</text>
+                <text font="Times New Roman" bbox="284.330,279.532,288.770,288.412" colourspace="DeviceGray" ncolour="0" size="8.880">0</text>
+                <text font="Times New Roman" bbox="288.770,279.532,293.210,288.412" colourspace="DeviceGray" ncolour="0" size="8.880">5</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="279.890,267.772,293.210,276.652">
+                <text font="Times New Roman" bbox="279.890,267.772,284.330,276.652" colourspace="DeviceGray" ncolour="0" size="8.880">2</text>
+                <text font="Times New Roman" bbox="284.330,267.772,288.770,276.652" colourspace="DeviceGray" ncolour="0" size="8.880">1</text>
+                <text font="Times New Roman" bbox="288.770,267.772,293.210,276.652" colourspace="DeviceGray" ncolour="0" size="8.880">1</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="279.890,256.012,293.210,264.892">
+                <text font="Times New Roman" bbox="279.890,256.012,284.330,264.892" colourspace="DeviceGray" ncolour="0" size="8.880">2</text>
+                <text font="Times New Roman" bbox="284.330,256.012,288.770,264.892" colourspace="DeviceGray" ncolour="0" size="8.880">1</text>
+                <text font="Times New Roman" bbox="288.770,256.012,293.210,264.892" colourspace="DeviceGray" ncolour="0" size="8.880">7</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="279.890,244.222,293.210,253.102">
+                <text font="Times New Roman" bbox="279.890,244.222,284.330,253.102" colourspace="DeviceGray" ncolour="0" size="8.880">2</text>
+                <text font="Times New Roman" bbox="284.330,244.222,288.770,253.102" colourspace="DeviceGray" ncolour="0" size="8.880">2</text>
+                <text font="Times New Roman" bbox="288.770,244.222,293.210,253.102" colourspace="DeviceGray" ncolour="0" size="8.880">3</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="279.890,232.462,293.210,241.342">
+                <text font="Times New Roman" bbox="279.890,232.462,284.330,241.342" colourspace="DeviceGray" ncolour="0" size="8.880">2</text>
+                <text font="Times New Roman" bbox="284.330,232.462,288.770,241.342" colourspace="DeviceGray" ncolour="0" size="8.880">3</text>
+                <text font="Times New Roman" bbox="288.770,232.462,293.210,241.342" colourspace="DeviceGray" ncolour="0" size="8.880">0</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="279.890,220.702,293.210,229.582">
+                <text font="Times New Roman" bbox="279.890,220.702,284.330,229.582" colourspace="DeviceGray" ncolour="0" size="8.880">2</text>
+                <text font="Times New Roman" bbox="284.330,220.702,288.770,229.582" colourspace="DeviceGray" ncolour="0" size="8.880">3</text>
+                <text font="Times New Roman" bbox="288.770,220.702,293.210,229.582" colourspace="DeviceGray" ncolour="0" size="8.880">6</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="279.890,208.942,293.210,217.822">
+                <text font="Times New Roman" bbox="279.890,208.942,284.330,217.822" colourspace="DeviceGray" ncolour="0" size="8.880">2</text>
+                <text font="Times New Roman" bbox="284.330,208.942,288.770,217.822" colourspace="DeviceGray" ncolour="0" size="8.880">4</text>
+                <text font="Times New Roman" bbox="288.770,208.942,293.210,217.822" colourspace="DeviceGray" ncolour="0" size="8.880">3</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="279.890,197.182,293.210,206.062">
+                <text font="Times New Roman" bbox="279.890,197.182,284.330,206.062" colourspace="DeviceGray" ncolour="0" size="8.880">2</text>
+                <text font="Times New Roman" bbox="284.330,197.182,288.770,206.062" colourspace="DeviceGray" ncolour="0" size="8.880">5</text>
+                <text font="Times New Roman" bbox="288.770,197.182,293.210,206.062" colourspace="DeviceGray" ncolour="0" size="8.880">0</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="279.890,185.422,293.210,194.302">
+                <text font="Times New Roman" bbox="279.890,185.422,284.330,194.302" colourspace="DeviceGray" ncolour="0" size="8.880">2</text>
+                <text font="Times New Roman" bbox="284.330,185.422,288.770,194.302" colourspace="DeviceGray" ncolour="0" size="8.880">5</text>
+                <text font="Times New Roman" bbox="288.770,185.422,293.210,194.302" colourspace="DeviceGray" ncolour="0" size="8.880">7</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="279.890,173.662,293.210,182.542">
+                <text font="Times New Roman" bbox="279.890,173.662,284.330,182.542" colourspace="DeviceGray" ncolour="0" size="8.880">2</text>
+                <text font="Times New Roman" bbox="284.330,173.662,288.770,182.542" colourspace="DeviceGray" ncolour="0" size="8.880">6</text>
+                <text font="Times New Roman" bbox="288.770,173.662,293.210,182.542" colourspace="DeviceGray" ncolour="0" size="8.880">9</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="279.890,161.902,293.210,170.782">
+                <text font="Times New Roman" bbox="279.890,161.902,284.330,170.782" colourspace="DeviceGray" ncolour="0" size="8.880">2</text>
+                <text font="Times New Roman" bbox="284.330,161.902,288.770,170.782" colourspace="DeviceGray" ncolour="0" size="8.880">9</text>
+                <text font="Times New Roman" bbox="288.770,161.902,293.210,170.782" colourspace="DeviceGray" ncolour="0" size="8.880">6</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="279.890,150.142,293.210,159.022">
+                <text font="Times New Roman" bbox="279.890,150.142,284.330,159.022" colourspace="DeviceGray" ncolour="0" size="8.880">3</text>
+                <text font="Times New Roman" bbox="284.330,150.142,288.770,159.022" colourspace="DeviceGray" ncolour="0" size="8.880">2</text>
+                <text font="Times New Roman" bbox="288.770,150.142,293.210,159.022" colourspace="DeviceGray" ncolour="0" size="8.880">6</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="279.890,138.382,293.210,147.262">
+                <text font="Times New Roman" bbox="279.890,138.382,284.330,147.262" colourspace="DeviceGray" ncolour="0" size="8.880">3</text>
+                <text font="Times New Roman" bbox="284.330,138.382,288.770,147.262" colourspace="DeviceGray" ncolour="0" size="8.880">6</text>
+                <text font="Times New Roman" bbox="288.770,138.382,293.210,147.262" colourspace="DeviceGray" ncolour="0" size="8.880">2</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="279.890,126.622,293.210,135.502">
+                <text font="Times New Roman" bbox="279.890,126.622,284.330,135.502" colourspace="DeviceGray" ncolour="0" size="8.880">4</text>
+                <text font="Times New Roman" bbox="284.330,126.622,288.770,135.502" colourspace="DeviceGray" ncolour="0" size="8.880">0</text>
+                <text font="Times New Roman" bbox="288.770,126.622,293.210,135.502" colourspace="DeviceGray" ncolour="0" size="8.880">3</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="279.890,114.862,293.210,123.742">
+                <text font="Times New Roman" bbox="279.890,114.862,284.330,123.742" colourspace="DeviceGray" ncolour="0" size="8.880">3</text>
+                <text font="Times New Roman" bbox="284.330,114.862,288.770,123.742" colourspace="DeviceGray" ncolour="0" size="8.880">5</text>
+                <text font="Times New Roman" bbox="288.770,114.862,293.210,123.742" colourspace="DeviceGray" ncolour="0" size="8.880">9</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="279.890,103.082,293.210,111.962">
+                <text font="Times New Roman" bbox="279.890,103.082,284.330,111.962" colourspace="DeviceGray" ncolour="0" size="8.880">3</text>
+                <text font="Times New Roman" bbox="284.330,103.082,288.770,111.962" colourspace="DeviceGray" ncolour="0" size="8.880">9</text>
+                <text font="Times New Roman" bbox="288.770,103.082,293.210,111.962" colourspace="DeviceGray" ncolour="0" size="8.880">4</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="279.890,91.322,293.210,100.202">
+                <text font="Times New Roman" bbox="279.890,91.322,284.330,100.202" colourspace="DeviceGray" ncolour="0" size="8.880">4</text>
+                <text font="Times New Roman" bbox="284.330,91.322,288.770,100.202" colourspace="DeviceGray" ncolour="0" size="8.880">3</text>
+                <text font="Times New Roman" bbox="288.770,91.322,293.210,100.202" colourspace="DeviceGray" ncolour="0" size="8.880">4</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="279.890,79.562,293.210,88.442">
+                <text font="Times New Roman" bbox="279.890,79.562,284.330,88.442" colourspace="DeviceGray" ncolour="0" size="8.880">4</text>
+                <text font="Times New Roman" bbox="284.330,79.562,288.770,88.442" colourspace="DeviceGray" ncolour="0" size="8.880">8</text>
+                <text font="Times New Roman" bbox="288.770,79.562,293.210,88.442" colourspace="DeviceGray" ncolour="0" size="8.880">0</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="279.890,67.802,293.210,76.682">
+                <text font="Times New Roman" bbox="279.890,67.802,284.330,76.682" colourspace="DeviceGray" ncolour="0" size="8.880">5</text>
+                <text font="Times New Roman" bbox="284.330,67.802,288.770,76.682" colourspace="DeviceGray" ncolour="0" size="8.880">3</text>
+                <text font="Times New Roman" bbox="288.770,67.802,293.210,76.682" colourspace="DeviceGray" ncolour="0" size="8.880">2</text>
+                <text>
+                </text>
+            </textline>
+        </textbox>
+        <textbox id="14" bbox="380.710,67.802,394.030,664.782">
+            <textline bbox="382.990,655.902,391.870,664.782">
+                <text font="Times New Roman" bbox="382.990,655.902,387.430,664.782" colourspace="DeviceGray" ncolour="0" size="8.880">5</text>
+                <text font="Times New Roman" bbox="387.430,655.902,391.870,664.782" colourspace="DeviceGray" ncolour="0" size="8.880">3</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="382.990,644.142,391.870,653.022">
+                <text font="Times New Roman" bbox="382.990,644.142,387.430,653.022" colourspace="DeviceGray" ncolour="0" size="8.880">5</text>
+                <text font="Times New Roman" bbox="387.430,644.142,391.870,653.022" colourspace="DeviceGray" ncolour="0" size="8.880">4</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="382.990,632.382,391.870,641.262">
+                <text font="Times New Roman" bbox="382.990,632.382,387.430,641.262" colourspace="DeviceGray" ncolour="0" size="8.880">5</text>
+                <text font="Times New Roman" bbox="387.430,632.382,391.870,641.262" colourspace="DeviceGray" ncolour="0" size="8.880">5</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="382.990,620.622,391.870,629.502">
+                <text font="Times New Roman" bbox="382.990,620.622,387.430,629.502" colourspace="DeviceGray" ncolour="0" size="8.880">5</text>
+                <text font="Times New Roman" bbox="387.430,620.622,391.870,629.502" colourspace="DeviceGray" ncolour="0" size="8.880">7</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="382.990,608.862,391.870,617.742">
+                <text font="Times New Roman" bbox="382.990,608.862,387.430,617.742" colourspace="DeviceGray" ncolour="0" size="8.880">5</text>
+                <text font="Times New Roman" bbox="387.430,608.862,391.870,617.742" colourspace="DeviceGray" ncolour="0" size="8.880">9</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="382.990,597.102,391.870,605.982">
+                <text font="Times New Roman" bbox="382.990,597.102,387.430,605.982" colourspace="DeviceGray" ncolour="0" size="8.880">6</text>
+                <text font="Times New Roman" bbox="387.430,597.102,391.870,605.982" colourspace="DeviceGray" ncolour="0" size="8.880">1</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="382.990,585.342,391.870,594.222">
+                <text font="Times New Roman" bbox="382.990,585.342,387.430,594.222" colourspace="DeviceGray" ncolour="0" size="8.880">6</text>
+                <text font="Times New Roman" bbox="387.430,585.342,391.870,594.222" colourspace="DeviceGray" ncolour="0" size="8.880">3</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="382.990,573.582,391.870,582.462">
+                <text font="Times New Roman" bbox="382.990,573.582,387.430,582.462" colourspace="DeviceGray" ncolour="0" size="8.880">6</text>
+                <text font="Times New Roman" bbox="387.430,573.582,391.870,582.462" colourspace="DeviceGray" ncolour="0" size="8.880">5</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="382.990,561.822,391.870,570.702">
+                <text font="Times New Roman" bbox="382.990,561.822,387.430,570.702" colourspace="DeviceGray" ncolour="0" size="8.880">6</text>
+                <text font="Times New Roman" bbox="387.430,561.822,391.870,570.702" colourspace="DeviceGray" ncolour="0" size="8.880">7</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="382.990,550.062,391.870,558.942">
+                <text font="Times New Roman" bbox="382.990,550.062,387.430,558.942" colourspace="DeviceGray" ncolour="0" size="8.880">7</text>
+                <text font="Times New Roman" bbox="387.430,550.062,391.870,558.942" colourspace="DeviceGray" ncolour="0" size="8.880">0</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="382.990,538.272,391.870,547.152">
+                <text font="Times New Roman" bbox="382.990,538.272,387.430,547.152" colourspace="DeviceGray" ncolour="0" size="8.880">7</text>
+                <text font="Times New Roman" bbox="387.430,538.272,391.870,547.152" colourspace="DeviceGray" ncolour="0" size="8.880">2</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="382.990,526.512,391.870,535.392">
+                <text font="Times New Roman" bbox="382.990,526.512,387.430,535.392" colourspace="DeviceGray" ncolour="0" size="8.880">7</text>
+                <text font="Times New Roman" bbox="387.430,526.512,391.870,535.392" colourspace="DeviceGray" ncolour="0" size="8.880">5</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="382.990,514.752,391.870,523.632">
+                <text font="Times New Roman" bbox="382.990,514.752,387.430,523.632" colourspace="DeviceGray" ncolour="0" size="8.880">7</text>
+                <text font="Times New Roman" bbox="387.430,514.752,391.870,523.632" colourspace="DeviceGray" ncolour="0" size="8.880">8</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="382.990,502.992,391.870,511.872">
+                <text font="Times New Roman" bbox="382.990,502.992,387.430,511.872" colourspace="DeviceGray" ncolour="0" size="8.880">8</text>
+                <text font="Times New Roman" bbox="387.430,502.992,391.870,511.872" colourspace="DeviceGray" ncolour="0" size="8.880">0</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="382.990,491.232,391.870,500.112">
+                <text font="Times New Roman" bbox="382.990,491.232,387.430,500.112" colourspace="DeviceGray" ncolour="0" size="8.880">8</text>
+                <text font="Times New Roman" bbox="387.430,491.232,391.870,500.112" colourspace="DeviceGray" ncolour="0" size="8.880">4</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="382.990,479.472,391.870,488.352">
+                <text font="Times New Roman" bbox="382.990,479.472,387.430,488.352" colourspace="DeviceGray" ncolour="0" size="8.880">8</text>
+                <text font="Times New Roman" bbox="387.430,479.472,391.870,488.352" colourspace="DeviceGray" ncolour="0" size="8.880">7</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="382.990,467.712,391.870,476.592">
+                <text font="Times New Roman" bbox="382.990,467.712,387.430,476.592" colourspace="DeviceGray" ncolour="0" size="8.880">9</text>
+                <text font="Times New Roman" bbox="387.430,467.712,391.870,476.592" colourspace="DeviceGray" ncolour="0" size="8.880">0</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="382.990,455.952,391.870,464.832">
+                <text font="Times New Roman" bbox="382.990,455.952,387.430,464.832" colourspace="DeviceGray" ncolour="0" size="8.880">9</text>
+                <text font="Times New Roman" bbox="387.430,455.952,391.870,464.832" colourspace="DeviceGray" ncolour="0" size="8.880">3</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="382.990,444.192,391.870,453.072">
+                <text font="Times New Roman" bbox="382.990,444.192,387.430,453.072" colourspace="DeviceGray" ncolour="0" size="8.880">9</text>
+                <text font="Times New Roman" bbox="387.430,444.192,391.870,453.072" colourspace="DeviceGray" ncolour="0" size="8.880">7</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="380.710,432.432,394.030,441.312">
+                <text font="Times New Roman" bbox="380.710,432.432,385.150,441.312" colourspace="DeviceGray" ncolour="0" size="8.880">1</text>
+                <text font="Times New Roman" bbox="385.150,432.432,389.590,441.312" colourspace="DeviceGray" ncolour="0" size="8.880">0</text>
+                <text font="Times New Roman" bbox="389.590,432.432,394.030,441.312" colourspace="DeviceGray" ncolour="0" size="8.880">1</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="380.710,420.672,394.030,429.552">
+                <text font="Times New Roman" bbox="380.710,420.672,385.150,429.552" colourspace="DeviceGray" ncolour="0" size="8.880">1</text>
+                <text font="Times New Roman" bbox="385.150,420.672,389.590,429.552" colourspace="DeviceGray" ncolour="0" size="8.880">0</text>
+                <text font="Times New Roman" bbox="389.590,420.672,394.030,429.552" colourspace="DeviceGray" ncolour="0" size="8.880">5</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="380.710,408.912,394.030,417.792">
+                <text font="Times New Roman" bbox="380.710,408.912,385.150,417.792" colourspace="DeviceGray" ncolour="0" size="8.880">1</text>
+                <text font="Times New Roman" bbox="385.150,408.912,389.590,417.792" colourspace="DeviceGray" ncolour="0" size="8.880">0</text>
+                <text font="Times New Roman" bbox="389.590,408.912,394.030,417.792" colourspace="DeviceGray" ncolour="0" size="8.880">9</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="380.710,397.132,394.030,406.012">
+                <text font="Times New Roman" bbox="380.710,397.132,385.150,406.012" colourspace="DeviceGray" ncolour="0" size="8.880">1</text>
+                <text font="Times New Roman" bbox="385.150,397.132,389.590,406.012" colourspace="DeviceGray" ncolour="0" size="8.880">1</text>
+                <text font="Times New Roman" bbox="389.590,397.132,394.030,406.012" colourspace="DeviceGray" ncolour="0" size="8.880">3</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="380.710,385.372,394.030,394.252">
+                <text font="Times New Roman" bbox="380.710,385.372,385.150,394.252" colourspace="DeviceGray" ncolour="0" size="8.880">1</text>
+                <text font="Times New Roman" bbox="385.150,385.372,389.590,394.252" colourspace="DeviceGray" ncolour="0" size="8.880">1</text>
+                <text font="Times New Roman" bbox="389.590,385.372,394.030,394.252" colourspace="DeviceGray" ncolour="0" size="8.880">7</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="380.710,373.612,394.030,382.492">
+                <text font="Times New Roman" bbox="380.710,373.612,385.150,382.492" colourspace="DeviceGray" ncolour="0" size="8.880">1</text>
+                <text font="Times New Roman" bbox="385.150,373.612,389.590,382.492" colourspace="DeviceGray" ncolour="0" size="8.880">2</text>
+                <text font="Times New Roman" bbox="389.590,373.612,394.030,382.492" colourspace="DeviceGray" ncolour="0" size="8.880">2</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="380.710,361.852,394.030,370.732">
+                <text font="Times New Roman" bbox="380.710,361.852,385.150,370.732" colourspace="DeviceGray" ncolour="0" size="8.880">1</text>
+                <text font="Times New Roman" bbox="385.150,361.852,389.590,370.732" colourspace="DeviceGray" ncolour="0" size="8.880">2</text>
+                <text font="Times New Roman" bbox="389.590,361.852,394.030,370.732" colourspace="DeviceGray" ncolour="0" size="8.880">7</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="380.710,350.092,394.030,358.972">
+                <text font="Times New Roman" bbox="380.710,350.092,385.150,358.972" colourspace="DeviceGray" ncolour="0" size="8.880">1</text>
+                <text font="Times New Roman" bbox="385.150,350.092,389.590,358.972" colourspace="DeviceGray" ncolour="0" size="8.880">3</text>
+                <text font="Times New Roman" bbox="389.590,350.092,394.030,358.972" colourspace="DeviceGray" ncolour="0" size="8.880">2</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="380.710,338.332,394.030,347.212">
+                <text font="Times New Roman" bbox="380.710,338.332,385.150,347.212" colourspace="DeviceGray" ncolour="0" size="8.880">1</text>
+                <text font="Times New Roman" bbox="385.150,338.332,389.590,347.212" colourspace="DeviceGray" ncolour="0" size="8.880">3</text>
+                <text font="Times New Roman" bbox="389.590,338.332,394.030,347.212" colourspace="DeviceGray" ncolour="0" size="8.880">8</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="380.710,326.572,394.030,335.452">
+                <text font="Times New Roman" bbox="380.710,326.572,385.150,335.452" colourspace="DeviceGray" ncolour="0" size="8.880">1</text>
+                <text font="Times New Roman" bbox="385.150,326.572,389.590,335.452" colourspace="DeviceGray" ncolour="0" size="8.880">4</text>
+                <text font="Times New Roman" bbox="389.590,326.572,394.030,335.452" colourspace="DeviceGray" ncolour="0" size="8.880">3</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="380.710,314.812,394.030,323.692">
+                <text font="Times New Roman" bbox="380.710,314.812,385.150,323.692" colourspace="DeviceGray" ncolour="0" size="8.880">1</text>
+                <text font="Times New Roman" bbox="385.150,314.812,389.590,323.692" colourspace="DeviceGray" ncolour="0" size="8.880">4</text>
+                <text font="Times New Roman" bbox="389.590,314.812,394.030,323.692" colourspace="DeviceGray" ncolour="0" size="8.880">9</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="380.710,303.052,394.030,311.932">
+                <text font="Times New Roman" bbox="380.710,303.052,385.150,311.932" colourspace="DeviceGray" ncolour="0" size="8.880">1</text>
+                <text font="Times New Roman" bbox="385.150,303.052,389.590,311.932" colourspace="DeviceGray" ncolour="0" size="8.880">5</text>
+                <text font="Times New Roman" bbox="389.590,303.052,394.030,311.932" colourspace="DeviceGray" ncolour="0" size="8.880">5</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="380.710,291.292,394.030,300.172">
+                <text font="Times New Roman" bbox="380.710,291.292,385.150,300.172" colourspace="DeviceGray" ncolour="0" size="8.880">1</text>
+                <text font="Times New Roman" bbox="385.150,291.292,389.590,300.172" colourspace="DeviceGray" ncolour="0" size="8.880">6</text>
+                <text font="Times New Roman" bbox="389.590,291.292,394.030,300.172" colourspace="DeviceGray" ncolour="0" size="8.880">2</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="380.710,279.532,394.030,288.412">
+                <text font="Times New Roman" bbox="380.710,279.532,385.150,288.412" colourspace="DeviceGray" ncolour="0" size="8.880">1</text>
+                <text font="Times New Roman" bbox="385.150,279.532,389.590,288.412" colourspace="DeviceGray" ncolour="0" size="8.880">6</text>
+                <text font="Times New Roman" bbox="389.590,279.532,394.030,288.412" colourspace="DeviceGray" ncolour="0" size="8.880">9</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="380.710,267.772,394.030,276.652">
+                <text font="Times New Roman" bbox="380.710,267.772,385.150,276.652" colourspace="DeviceGray" ncolour="0" size="8.880">1</text>
+                <text font="Times New Roman" bbox="385.150,267.772,389.590,276.652" colourspace="DeviceGray" ncolour="0" size="8.880">7</text>
+                <text font="Times New Roman" bbox="389.590,267.772,394.030,276.652" colourspace="DeviceGray" ncolour="0" size="8.880">6</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="380.710,256.012,394.030,264.892">
+                <text font="Times New Roman" bbox="380.710,256.012,385.150,264.892" colourspace="DeviceGray" ncolour="0" size="8.880">1</text>
+                <text font="Times New Roman" bbox="385.150,256.012,389.590,264.892" colourspace="DeviceGray" ncolour="0" size="8.880">8</text>
+                <text font="Times New Roman" bbox="389.590,256.012,394.030,264.892" colourspace="DeviceGray" ncolour="0" size="8.880">4</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="380.710,244.222,394.030,253.102">
+                <text font="Times New Roman" bbox="380.710,244.222,385.150,253.102" colourspace="DeviceGray" ncolour="0" size="8.880">1</text>
+                <text font="Times New Roman" bbox="385.150,244.222,389.590,253.102" colourspace="DeviceGray" ncolour="0" size="8.880">9</text>
+                <text font="Times New Roman" bbox="389.590,244.222,394.030,253.102" colourspace="DeviceGray" ncolour="0" size="8.880">2</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="380.710,232.462,394.030,241.342">
+                <text font="Times New Roman" bbox="380.710,232.462,385.150,241.342" colourspace="DeviceGray" ncolour="0" size="8.880">2</text>
+                <text font="Times New Roman" bbox="385.150,232.462,389.590,241.342" colourspace="DeviceGray" ncolour="0" size="8.880">0</text>
+                <text font="Times New Roman" bbox="389.590,232.462,394.030,241.342" colourspace="DeviceGray" ncolour="0" size="8.880">0</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="380.710,220.702,394.030,229.582">
+                <text font="Times New Roman" bbox="380.710,220.702,385.150,229.582" colourspace="DeviceGray" ncolour="0" size="8.880">2</text>
+                <text font="Times New Roman" bbox="385.150,220.702,389.590,229.582" colourspace="DeviceGray" ncolour="0" size="8.880">0</text>
+                <text font="Times New Roman" bbox="389.590,220.702,394.030,229.582" colourspace="DeviceGray" ncolour="0" size="8.880">9</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="380.710,208.942,394.030,217.822">
+                <text font="Times New Roman" bbox="380.710,208.942,385.150,217.822" colourspace="DeviceGray" ncolour="0" size="8.880">2</text>
+                <text font="Times New Roman" bbox="385.150,208.942,389.590,217.822" colourspace="DeviceGray" ncolour="0" size="8.880">1</text>
+                <text font="Times New Roman" bbox="389.590,208.942,394.030,217.822" colourspace="DeviceGray" ncolour="0" size="8.880">9</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="380.710,197.182,394.030,206.062">
+                <text font="Times New Roman" bbox="380.710,197.182,385.150,206.062" colourspace="DeviceGray" ncolour="0" size="8.880">2</text>
+                <text font="Times New Roman" bbox="385.150,197.182,389.590,206.062" colourspace="DeviceGray" ncolour="0" size="8.880">2</text>
+                <text font="Times New Roman" bbox="389.590,197.182,394.030,206.062" colourspace="DeviceGray" ncolour="0" size="8.880">9</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="380.710,185.422,394.030,194.302">
+                <text font="Times New Roman" bbox="380.710,185.422,385.150,194.302" colourspace="DeviceGray" ncolour="0" size="8.880">2</text>
+                <text font="Times New Roman" bbox="385.150,185.422,389.590,194.302" colourspace="DeviceGray" ncolour="0" size="8.880">4</text>
+                <text font="Times New Roman" bbox="389.590,185.422,394.030,194.302" colourspace="DeviceGray" ncolour="0" size="8.880">0</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="380.710,173.662,394.030,182.542">
+                <text font="Times New Roman" bbox="380.710,173.662,385.150,182.542" colourspace="DeviceGray" ncolour="0" size="8.880">2</text>
+                <text font="Times New Roman" bbox="385.150,173.662,389.590,182.542" colourspace="DeviceGray" ncolour="0" size="8.880">5</text>
+                <text font="Times New Roman" bbox="389.590,173.662,394.030,182.542" colourspace="DeviceGray" ncolour="0" size="8.880">1</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="380.710,161.902,394.030,170.782">
+                <text font="Times New Roman" bbox="380.710,161.902,385.150,170.782" colourspace="DeviceGray" ncolour="0" size="8.880">2</text>
+                <text font="Times New Roman" bbox="385.150,161.902,389.590,170.782" colourspace="DeviceGray" ncolour="0" size="8.880">6</text>
+                <text font="Times New Roman" bbox="389.590,161.902,394.030,170.782" colourspace="DeviceGray" ncolour="0" size="8.880">3</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="380.710,150.142,394.030,159.022">
+                <text font="Times New Roman" bbox="380.710,150.142,385.150,159.022" colourspace="DeviceGray" ncolour="0" size="8.880">2</text>
+                <text font="Times New Roman" bbox="385.150,150.142,389.590,159.022" colourspace="DeviceGray" ncolour="0" size="8.880">7</text>
+                <text font="Times New Roman" bbox="389.590,150.142,394.030,159.022" colourspace="DeviceGray" ncolour="0" size="8.880">5</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="380.710,138.382,394.030,147.262">
+                <text font="Times New Roman" bbox="380.710,138.382,385.150,147.262" colourspace="DeviceGray" ncolour="0" size="8.880">2</text>
+                <text font="Times New Roman" bbox="385.150,138.382,389.590,147.262" colourspace="DeviceGray" ncolour="0" size="8.880">8</text>
+                <text font="Times New Roman" bbox="389.590,138.382,394.030,147.262" colourspace="DeviceGray" ncolour="0" size="8.880">8</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="380.710,126.622,394.030,135.502">
+                <text font="Times New Roman" bbox="380.710,126.622,385.150,135.502" colourspace="DeviceGray" ncolour="0" size="8.880">3</text>
+                <text font="Times New Roman" bbox="385.150,126.622,389.590,135.502" colourspace="DeviceGray" ncolour="0" size="8.880">1</text>
+                <text font="Times New Roman" bbox="389.590,126.622,394.030,135.502" colourspace="DeviceGray" ncolour="0" size="8.880">5</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="380.710,114.862,394.030,123.742">
+                <text font="Times New Roman" bbox="380.710,114.862,385.150,123.742" colourspace="DeviceGray" ncolour="0" size="8.880">3</text>
+                <text font="Times New Roman" bbox="385.150,114.862,389.590,123.742" colourspace="DeviceGray" ncolour="0" size="8.880">0</text>
+                <text font="Times New Roman" bbox="389.590,114.862,394.030,123.742" colourspace="DeviceGray" ncolour="0" size="8.880">0</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="380.710,103.082,394.030,111.962">
+                <text font="Times New Roman" bbox="380.710,103.082,385.150,111.962" colourspace="DeviceGray" ncolour="0" size="8.880">3</text>
+                <text font="Times New Roman" bbox="385.150,103.082,389.590,111.962" colourspace="DeviceGray" ncolour="0" size="8.880">1</text>
+                <text font="Times New Roman" bbox="389.590,103.082,394.030,111.962" colourspace="DeviceGray" ncolour="0" size="8.880">5</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="380.710,91.322,394.030,100.202">
+                <text font="Times New Roman" bbox="380.710,91.322,385.150,100.202" colourspace="DeviceGray" ncolour="0" size="8.880">3</text>
+                <text font="Times New Roman" bbox="385.150,91.322,389.590,100.202" colourspace="DeviceGray" ncolour="0" size="8.880">4</text>
+                <text font="Times New Roman" bbox="389.590,91.322,394.030,100.202" colourspace="DeviceGray" ncolour="0" size="8.880">1</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="380.710,79.562,394.030,88.442">
+                <text font="Times New Roman" bbox="380.710,79.562,385.150,88.442" colourspace="DeviceGray" ncolour="0" size="8.880">3</text>
+                <text font="Times New Roman" bbox="385.150,79.562,389.590,88.442" colourspace="DeviceGray" ncolour="0" size="8.880">7</text>
+                <text font="Times New Roman" bbox="389.590,79.562,394.030,88.442" colourspace="DeviceGray" ncolour="0" size="8.880">3</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="380.710,67.802,394.030,76.682">
+                <text font="Times New Roman" bbox="380.710,67.802,385.150,76.682" colourspace="DeviceGray" ncolour="0" size="8.880">4</text>
+                <text font="Times New Roman" bbox="385.150,67.802,389.590,76.682" colourspace="DeviceGray" ncolour="0" size="8.880">1</text>
+                <text font="Times New Roman" bbox="389.590,67.802,394.030,76.682" colourspace="DeviceGray" ncolour="0" size="8.880">0</text>
+                <text>
+                </text>
+            </textline>
+        </textbox>
+        <textbox id="15" bbox="481.540,67.802,494.860,664.782">
+            <textline bbox="483.820,655.902,492.700,664.782">
+                <text font="Times New Roman" bbox="483.820,655.902,488.260,664.782" colourspace="DeviceGray" ncolour="0" size="8.880">7</text>
+                <text font="Times New Roman" bbox="488.260,655.902,492.700,664.782" colourspace="DeviceGray" ncolour="0" size="8.880">4</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="483.820,644.142,492.700,653.022">
+                <text font="Times New Roman" bbox="483.820,644.142,488.260,653.022" colourspace="DeviceGray" ncolour="0" size="8.880">7</text>
+                <text font="Times New Roman" bbox="488.260,644.142,492.700,653.022" colourspace="DeviceGray" ncolour="0" size="8.880">5</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="483.820,632.382,492.700,641.262">
+                <text font="Times New Roman" bbox="483.820,632.382,488.260,641.262" colourspace="DeviceGray" ncolour="0" size="8.880">7</text>
+                <text font="Times New Roman" bbox="488.260,632.382,492.700,641.262" colourspace="DeviceGray" ncolour="0" size="8.880">7</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="483.820,620.622,492.700,629.502">
+                <text font="Times New Roman" bbox="483.820,620.622,488.260,629.502" colourspace="DeviceGray" ncolour="0" size="8.880">7</text>
+                <text font="Times New Roman" bbox="488.260,620.622,492.700,629.502" colourspace="DeviceGray" ncolour="0" size="8.880">9</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="483.820,608.862,492.700,617.742">
+                <text font="Times New Roman" bbox="483.820,608.862,488.260,617.742" colourspace="DeviceGray" ncolour="0" size="8.880">8</text>
+                <text font="Times New Roman" bbox="488.260,608.862,492.700,617.742" colourspace="DeviceGray" ncolour="0" size="8.880">1</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="483.820,597.102,492.700,605.982">
+                <text font="Times New Roman" bbox="483.820,597.102,488.260,605.982" colourspace="DeviceGray" ncolour="0" size="8.880">8</text>
+                <text font="Times New Roman" bbox="488.260,597.102,492.700,605.982" colourspace="DeviceGray" ncolour="0" size="8.880">4</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="483.820,585.342,492.700,594.222">
+                <text font="Times New Roman" bbox="483.820,585.342,488.260,594.222" colourspace="DeviceGray" ncolour="0" size="8.880">8</text>
+                <text font="Times New Roman" bbox="488.260,585.342,492.700,594.222" colourspace="DeviceGray" ncolour="0" size="8.880">6</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="483.820,573.582,492.700,582.462">
+                <text font="Times New Roman" bbox="483.820,573.582,488.260,582.462" colourspace="DeviceGray" ncolour="0" size="8.880">8</text>
+                <text font="Times New Roman" bbox="488.260,573.582,492.700,582.462" colourspace="DeviceGray" ncolour="0" size="8.880">8</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="483.820,561.822,492.700,570.702">
+                <text font="Times New Roman" bbox="483.820,561.822,488.260,570.702" colourspace="DeviceGray" ncolour="0" size="8.880">9</text>
+                <text font="Times New Roman" bbox="488.260,561.822,492.700,570.702" colourspace="DeviceGray" ncolour="0" size="8.880">1</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="483.820,550.062,492.700,558.942">
+                <text font="Times New Roman" bbox="483.820,550.062,488.260,558.942" colourspace="DeviceGray" ncolour="0" size="8.880">9</text>
+                <text font="Times New Roman" bbox="488.260,550.062,492.700,558.942" colourspace="DeviceGray" ncolour="0" size="8.880">4</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="483.820,538.272,492.700,547.152">
+                <text font="Times New Roman" bbox="483.820,538.272,488.260,547.152" colourspace="DeviceGray" ncolour="0" size="8.880">9</text>
+                <text font="Times New Roman" bbox="488.260,538.272,492.700,547.152" colourspace="DeviceGray" ncolour="0" size="8.880">6</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="483.820,526.512,492.700,535.392">
+                <text font="Times New Roman" bbox="483.820,526.512,488.260,535.392" colourspace="DeviceGray" ncolour="0" size="8.880">9</text>
+                <text font="Times New Roman" bbox="488.260,526.512,492.700,535.392" colourspace="DeviceGray" ncolour="0" size="8.880">9</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="481.540,514.752,494.860,523.632">
+                <text font="Times New Roman" bbox="481.540,514.752,485.980,523.632" colourspace="DeviceGray" ncolour="0" size="8.880">1</text>
+                <text font="Times New Roman" bbox="485.980,514.752,490.420,523.632" colourspace="DeviceGray" ncolour="0" size="8.880">0</text>
+                <text font="Times New Roman" bbox="490.420,514.752,494.860,523.632" colourspace="DeviceGray" ncolour="0" size="8.880">2</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="481.540,502.992,494.860,511.872">
+                <text font="Times New Roman" bbox="481.540,502.992,485.980,511.872" colourspace="DeviceGray" ncolour="0" size="8.880">1</text>
+                <text font="Times New Roman" bbox="485.980,502.992,490.420,511.872" colourspace="DeviceGray" ncolour="0" size="8.880">0</text>
+                <text font="Times New Roman" bbox="490.420,502.992,494.860,511.872" colourspace="DeviceGray" ncolour="0" size="8.880">5</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="481.540,491.232,494.860,500.112">
+                <text font="Times New Roman" bbox="481.540,491.232,485.980,500.112" colourspace="DeviceGray" ncolour="0" size="8.880">1</text>
+                <text font="Times New Roman" bbox="485.980,491.232,490.420,500.112" colourspace="DeviceGray" ncolour="0" size="8.880">0</text>
+                <text font="Times New Roman" bbox="490.420,491.232,494.860,500.112" colourspace="DeviceGray" ncolour="0" size="8.880">8</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="481.540,479.472,494.860,488.352">
+                <text font="Times New Roman" bbox="481.540,479.472,485.980,488.352" colourspace="DeviceGray" ncolour="0" size="8.880">1</text>
+                <text font="Times New Roman" bbox="485.980,479.472,490.420,488.352" colourspace="DeviceGray" ncolour="0" size="8.880">1</text>
+                <text font="Times New Roman" bbox="490.420,479.472,494.860,488.352" colourspace="DeviceGray" ncolour="0" size="8.880">1</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="481.540,467.712,494.860,476.592">
+                <text font="Times New Roman" bbox="481.540,467.712,485.980,476.592" colourspace="DeviceGray" ncolour="0" size="8.880">1</text>
+                <text font="Times New Roman" bbox="485.980,467.712,490.420,476.592" colourspace="DeviceGray" ncolour="0" size="8.880">1</text>
+                <text font="Times New Roman" bbox="490.420,467.712,494.860,476.592" colourspace="DeviceGray" ncolour="0" size="8.880">4</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="481.540,455.952,494.860,464.832">
+                <text font="Times New Roman" bbox="481.540,455.952,485.980,464.832" colourspace="DeviceGray" ncolour="0" size="8.880">1</text>
+                <text font="Times New Roman" bbox="485.980,455.952,490.420,464.832" colourspace="DeviceGray" ncolour="0" size="8.880">1</text>
+                <text font="Times New Roman" bbox="490.420,455.952,494.860,464.832" colourspace="DeviceGray" ncolour="0" size="8.880">8</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="481.540,444.192,494.860,453.072">
+                <text font="Times New Roman" bbox="481.540,444.192,485.980,453.072" colourspace="DeviceGray" ncolour="0" size="8.880">1</text>
+                <text font="Times New Roman" bbox="485.980,444.192,490.420,453.072" colourspace="DeviceGray" ncolour="0" size="8.880">2</text>
+                <text font="Times New Roman" bbox="490.420,444.192,494.860,453.072" colourspace="DeviceGray" ncolour="0" size="8.880">1</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="481.540,432.432,494.860,441.312">
+                <text font="Times New Roman" bbox="481.540,432.432,485.980,441.312" colourspace="DeviceGray" ncolour="0" size="8.880">1</text>
+                <text font="Times New Roman" bbox="485.980,432.432,490.420,441.312" colourspace="DeviceGray" ncolour="0" size="8.880">2</text>
+                <text font="Times New Roman" bbox="490.420,432.432,494.860,441.312" colourspace="DeviceGray" ncolour="0" size="8.880">5</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="481.540,420.672,494.860,429.552">
+                <text font="Times New Roman" bbox="481.540,420.672,485.980,429.552" colourspace="DeviceGray" ncolour="0" size="8.880">1</text>
+                <text font="Times New Roman" bbox="485.980,420.672,490.420,429.552" colourspace="DeviceGray" ncolour="0" size="8.880">2</text>
+                <text font="Times New Roman" bbox="490.420,420.672,494.860,429.552" colourspace="DeviceGray" ncolour="0" size="8.880">8</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="481.540,408.912,494.860,417.792">
+                <text font="Times New Roman" bbox="481.540,408.912,485.980,417.792" colourspace="DeviceGray" ncolour="0" size="8.880">1</text>
+                <text font="Times New Roman" bbox="485.980,408.912,490.420,417.792" colourspace="DeviceGray" ncolour="0" size="8.880">3</text>
+                <text font="Times New Roman" bbox="490.420,408.912,494.860,417.792" colourspace="DeviceGray" ncolour="0" size="8.880">2</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="481.540,397.132,494.860,406.012">
+                <text font="Times New Roman" bbox="481.540,397.132,485.980,406.012" colourspace="DeviceGray" ncolour="0" size="8.880">1</text>
+                <text font="Times New Roman" bbox="485.980,397.132,490.420,406.012" colourspace="DeviceGray" ncolour="0" size="8.880">3</text>
+                <text font="Times New Roman" bbox="490.420,397.132,494.860,406.012" colourspace="DeviceGray" ncolour="0" size="8.880">6</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="481.540,385.372,494.860,394.252">
+                <text font="Times New Roman" bbox="481.540,385.372,485.980,394.252" colourspace="DeviceGray" ncolour="0" size="8.880">1</text>
+                <text font="Times New Roman" bbox="485.980,385.372,490.420,394.252" colourspace="DeviceGray" ncolour="0" size="8.880">4</text>
+                <text font="Times New Roman" bbox="490.420,385.372,494.860,394.252" colourspace="DeviceGray" ncolour="0" size="8.880">0</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="481.540,373.612,494.860,382.492">
+                <text font="Times New Roman" bbox="481.540,373.612,485.980,382.492" colourspace="DeviceGray" ncolour="0" size="8.880">1</text>
+                <text font="Times New Roman" bbox="485.980,373.612,490.420,382.492" colourspace="DeviceGray" ncolour="0" size="8.880">4</text>
+                <text font="Times New Roman" bbox="490.420,373.612,494.860,382.492" colourspace="DeviceGray" ncolour="0" size="8.880">4</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="481.540,361.852,494.860,370.732">
+                <text font="Times New Roman" bbox="481.540,361.852,485.980,370.732" colourspace="DeviceGray" ncolour="0" size="8.880">1</text>
+                <text font="Times New Roman" bbox="485.980,361.852,490.420,370.732" colourspace="DeviceGray" ncolour="0" size="8.880">4</text>
+                <text font="Times New Roman" bbox="490.420,361.852,494.860,370.732" colourspace="DeviceGray" ncolour="0" size="8.880">8</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="481.540,350.092,494.860,358.972">
+                <text font="Times New Roman" bbox="481.540,350.092,485.980,358.972" colourspace="DeviceGray" ncolour="0" size="8.880">1</text>
+                <text font="Times New Roman" bbox="485.980,350.092,490.420,358.972" colourspace="DeviceGray" ncolour="0" size="8.880">5</text>
+                <text font="Times New Roman" bbox="490.420,350.092,494.860,358.972" colourspace="DeviceGray" ncolour="0" size="8.880">2</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="481.540,338.332,494.860,347.212">
+                <text font="Times New Roman" bbox="481.540,338.332,485.980,347.212" colourspace="DeviceGray" ncolour="0" size="8.880">1</text>
+                <text font="Times New Roman" bbox="485.980,338.332,490.420,347.212" colourspace="DeviceGray" ncolour="0" size="8.880">5</text>
+                <text font="Times New Roman" bbox="490.420,338.332,494.860,347.212" colourspace="DeviceGray" ncolour="0" size="8.880">6</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="481.540,326.572,494.860,335.452">
+                <text font="Times New Roman" bbox="481.540,326.572,485.980,335.452" colourspace="DeviceGray" ncolour="0" size="8.880">1</text>
+                <text font="Times New Roman" bbox="485.980,326.572,490.420,335.452" colourspace="DeviceGray" ncolour="0" size="8.880">6</text>
+                <text font="Times New Roman" bbox="490.420,326.572,494.860,335.452" colourspace="DeviceGray" ncolour="0" size="8.880">1</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="481.540,314.812,494.860,323.692">
+                <text font="Times New Roman" bbox="481.540,314.812,485.980,323.692" colourspace="DeviceGray" ncolour="0" size="8.880">1</text>
+                <text font="Times New Roman" bbox="485.980,314.812,490.420,323.692" colourspace="DeviceGray" ncolour="0" size="8.880">6</text>
+                <text font="Times New Roman" bbox="490.420,314.812,494.860,323.692" colourspace="DeviceGray" ncolour="0" size="8.880">6</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="481.540,303.052,494.860,311.932">
+                <text font="Times New Roman" bbox="481.540,303.052,485.980,311.932" colourspace="DeviceGray" ncolour="0" size="8.880">1</text>
+                <text font="Times New Roman" bbox="485.980,303.052,490.420,311.932" colourspace="DeviceGray" ncolour="0" size="8.880">7</text>
+                <text font="Times New Roman" bbox="490.420,303.052,494.860,311.932" colourspace="DeviceGray" ncolour="0" size="8.880">1</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="481.540,291.292,494.860,300.172">
+                <text font="Times New Roman" bbox="481.540,291.292,485.980,300.172" colourspace="DeviceGray" ncolour="0" size="8.880">1</text>
+                <text font="Times New Roman" bbox="485.980,291.292,490.420,300.172" colourspace="DeviceGray" ncolour="0" size="8.880">7</text>
+                <text font="Times New Roman" bbox="490.420,291.292,494.860,300.172" colourspace="DeviceGray" ncolour="0" size="8.880">6</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="481.540,279.532,494.860,288.412">
+                <text font="Times New Roman" bbox="481.540,279.532,485.980,288.412" colourspace="DeviceGray" ncolour="0" size="8.880">1</text>
+                <text font="Times New Roman" bbox="485.980,279.532,490.420,288.412" colourspace="DeviceGray" ncolour="0" size="8.880">8</text>
+                <text font="Times New Roman" bbox="490.420,279.532,494.860,288.412" colourspace="DeviceGray" ncolour="0" size="8.880">1</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="481.540,267.772,494.860,276.652">
+                <text font="Times New Roman" bbox="481.540,267.772,485.980,276.652" colourspace="DeviceGray" ncolour="0" size="8.880">1</text>
+                <text font="Times New Roman" bbox="485.980,267.772,490.420,276.652" colourspace="DeviceGray" ncolour="0" size="8.880">8</text>
+                <text font="Times New Roman" bbox="490.420,267.772,494.860,276.652" colourspace="DeviceGray" ncolour="0" size="8.880">6</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="481.540,256.012,494.860,264.892">
+                <text font="Times New Roman" bbox="481.540,256.012,485.980,264.892" colourspace="DeviceGray" ncolour="0" size="8.880">1</text>
+                <text font="Times New Roman" bbox="485.980,256.012,490.420,264.892" colourspace="DeviceGray" ncolour="0" size="8.880">9</text>
+                <text font="Times New Roman" bbox="490.420,256.012,494.860,264.892" colourspace="DeviceGray" ncolour="0" size="8.880">1</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="481.540,244.222,494.860,253.102">
+                <text font="Times New Roman" bbox="481.540,244.222,485.980,253.102" colourspace="DeviceGray" ncolour="0" size="8.880">1</text>
+                <text font="Times New Roman" bbox="485.980,244.222,490.420,253.102" colourspace="DeviceGray" ncolour="0" size="8.880">9</text>
+                <text font="Times New Roman" bbox="490.420,244.222,494.860,253.102" colourspace="DeviceGray" ncolour="0" size="8.880">7</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="481.540,232.462,494.860,241.342">
+                <text font="Times New Roman" bbox="481.540,232.462,485.980,241.342" colourspace="DeviceGray" ncolour="0" size="8.880">2</text>
+                <text font="Times New Roman" bbox="485.980,232.462,490.420,241.342" colourspace="DeviceGray" ncolour="0" size="8.880">0</text>
+                <text font="Times New Roman" bbox="490.420,232.462,494.860,241.342" colourspace="DeviceGray" ncolour="0" size="8.880">3</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="481.540,220.702,494.860,229.582">
+                <text font="Times New Roman" bbox="481.540,220.702,485.980,229.582" colourspace="DeviceGray" ncolour="0" size="8.880">2</text>
+                <text font="Times New Roman" bbox="485.980,220.702,490.420,229.582" colourspace="DeviceGray" ncolour="0" size="8.880">0</text>
+                <text font="Times New Roman" bbox="490.420,220.702,494.860,229.582" colourspace="DeviceGray" ncolour="0" size="8.880">9</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="481.540,208.942,494.860,217.822">
+                <text font="Times New Roman" bbox="481.540,208.942,485.980,217.822" colourspace="DeviceGray" ncolour="0" size="8.880">2</text>
+                <text font="Times New Roman" bbox="485.980,208.942,490.420,217.822" colourspace="DeviceGray" ncolour="0" size="8.880">1</text>
+                <text font="Times New Roman" bbox="490.420,208.942,494.860,217.822" colourspace="DeviceGray" ncolour="0" size="8.880">5</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="481.540,197.182,494.860,206.062">
+                <text font="Times New Roman" bbox="481.540,197.182,485.980,206.062" colourspace="DeviceGray" ncolour="0" size="8.880">2</text>
+                <text font="Times New Roman" bbox="485.980,197.182,490.420,206.062" colourspace="DeviceGray" ncolour="0" size="8.880">2</text>
+                <text font="Times New Roman" bbox="490.420,197.182,494.860,206.062" colourspace="DeviceGray" ncolour="0" size="8.880">1</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="481.540,185.422,494.860,194.302">
+                <text font="Times New Roman" bbox="481.540,185.422,485.980,194.302" colourspace="DeviceGray" ncolour="0" size="8.880">2</text>
+                <text font="Times New Roman" bbox="485.980,185.422,490.420,194.302" colourspace="DeviceGray" ncolour="0" size="8.880">2</text>
+                <text font="Times New Roman" bbox="490.420,185.422,494.860,194.302" colourspace="DeviceGray" ncolour="0" size="8.880">7</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="481.540,173.662,494.860,182.542">
+                <text font="Times New Roman" bbox="481.540,173.662,485.980,182.542" colourspace="DeviceGray" ncolour="0" size="8.880">2</text>
+                <text font="Times New Roman" bbox="485.980,173.662,490.420,182.542" colourspace="DeviceGray" ncolour="0" size="8.880">3</text>
+                <text font="Times New Roman" bbox="490.420,173.662,494.860,182.542" colourspace="DeviceGray" ncolour="0" size="8.880">4</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="481.540,161.902,494.860,170.782">
+                <text font="Times New Roman" bbox="481.540,161.902,485.980,170.782" colourspace="DeviceGray" ncolour="0" size="8.880">2</text>
+                <text font="Times New Roman" bbox="485.980,161.902,490.420,170.782" colourspace="DeviceGray" ncolour="0" size="8.880">4</text>
+                <text font="Times New Roman" bbox="490.420,161.902,494.860,170.782" colourspace="DeviceGray" ncolour="0" size="8.880">1</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="481.540,150.142,494.860,159.022">
+                <text font="Times New Roman" bbox="481.540,150.142,485.980,159.022" colourspace="DeviceGray" ncolour="0" size="8.880">2</text>
+                <text font="Times New Roman" bbox="485.980,150.142,490.420,159.022" colourspace="DeviceGray" ncolour="0" size="8.880">4</text>
+                <text font="Times New Roman" bbox="490.420,150.142,494.860,159.022" colourspace="DeviceGray" ncolour="0" size="8.880">8</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="481.540,138.382,494.860,147.262">
+                <text font="Times New Roman" bbox="481.540,138.382,485.980,147.262" colourspace="DeviceGray" ncolour="0" size="8.880">2</text>
+                <text font="Times New Roman" bbox="485.980,138.382,490.420,147.262" colourspace="DeviceGray" ncolour="0" size="8.880">5</text>
+                <text font="Times New Roman" bbox="490.420,138.382,494.860,147.262" colourspace="DeviceGray" ncolour="0" size="8.880">5</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="481.540,126.622,494.860,135.502">
+                <text font="Times New Roman" bbox="481.540,126.622,485.980,135.502" colourspace="DeviceGray" ncolour="0" size="8.880">2</text>
+                <text font="Times New Roman" bbox="485.980,126.622,490.420,135.502" colourspace="DeviceGray" ncolour="0" size="8.880">6</text>
+                <text font="Times New Roman" bbox="490.420,126.622,494.860,135.502" colourspace="DeviceGray" ncolour="0" size="8.880">4</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="481.540,114.862,494.860,123.742">
+                <text font="Times New Roman" bbox="481.540,114.862,485.980,123.742" colourspace="DeviceGray" ncolour="0" size="8.880">2</text>
+                <text font="Times New Roman" bbox="485.980,114.862,490.420,123.742" colourspace="DeviceGray" ncolour="0" size="8.880">7</text>
+                <text font="Times New Roman" bbox="490.420,114.862,494.860,123.742" colourspace="DeviceGray" ncolour="0" size="8.880">1</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="481.540,103.082,494.860,111.962">
+                <text font="Times New Roman" bbox="481.540,103.082,485.980,111.962" colourspace="DeviceGray" ncolour="0" size="8.880">2</text>
+                <text font="Times New Roman" bbox="485.980,103.082,490.420,111.962" colourspace="DeviceGray" ncolour="0" size="8.880">7</text>
+                <text font="Times New Roman" bbox="490.420,103.082,494.860,111.962" colourspace="DeviceGray" ncolour="0" size="8.880">9</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="481.540,91.322,494.860,100.202">
+                <text font="Times New Roman" bbox="481.540,91.322,485.980,100.202" colourspace="DeviceGray" ncolour="0" size="8.880">2</text>
+                <text font="Times New Roman" bbox="485.980,91.322,490.420,100.202" colourspace="DeviceGray" ncolour="0" size="8.880">8</text>
+                <text font="Times New Roman" bbox="490.420,91.322,494.860,100.202" colourspace="DeviceGray" ncolour="0" size="8.880">8</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="481.540,79.562,494.860,88.442">
+                <text font="Times New Roman" bbox="481.540,79.562,485.980,88.442" colourspace="DeviceGray" ncolour="0" size="8.880">3</text>
+                <text font="Times New Roman" bbox="485.980,79.562,490.420,88.442" colourspace="DeviceGray" ncolour="0" size="8.880">1</text>
+                <text font="Times New Roman" bbox="490.420,79.562,494.860,88.442" colourspace="DeviceGray" ncolour="0" size="8.880">1</text>
+                <text>
+                </text>
+            </textline>
+            <textline bbox="481.540,67.802,494.860,76.682">
+                <text font="Times New Roman" bbox="481.540,67.802,485.980,76.682" colourspace="DeviceGray" ncolour="0" size="8.880">3</text>
+                <text font="Times New Roman" bbox="485.980,67.802,490.420,76.682" colourspace="DeviceGray" ncolour="0" size="8.880">3</text>
+                <text font="Times New Roman" bbox="490.420,67.802,494.860,76.682" colourspace="DeviceGray" ncolour="0" size="8.880">8</text>
+                <text>
+                </text>
+            </textline>
+        </textbox>
+        <textbox id="16" bbox="57.840,42.155,448.420,52.733">
+            <textline bbox="57.840,42.155,448.420,52.733">
+                <text font="" bbox="57.840,42.893,67.680,52.733" colourspace="DeviceGray" ncolour="0" size="9.840">注</text>
+                <text font="" bbox="67.680,42.893,77.520,52.733" colourspace="DeviceGray" ncolour="0" size="9.840">：</text>
+                <text font="Times New Roman" bbox="77.520,42.155,79.980,51.995" colourspace="DeviceGray" ncolour="0" size="9.840"> </text>
+                <text font="Times New Roman" bbox="80.040,42.155,82.500,51.995" colourspace="DeviceGray" ncolour="0" size="9.840"> </text>
+                <text font="Times New Roman" bbox="82.560,42.155,85.020,51.995" colourspace="DeviceGray" ncolour="0" size="9.840"> </text>
+                <text font="" bbox="85.080,42.893,94.920,52.733" colourspace="DeviceGray" ncolour="0" size="9.840">月</text>
+                <text font="" bbox="94.920,42.893,104.760,52.733" colourspace="DeviceGray" ncolour="0" size="9.840">交</text>
+                <text font="" bbox="104.760,42.893,114.600,52.733" colourspace="DeviceGray" ncolour="0" size="9.840">保</text>
+                <text font="" bbox="114.600,42.893,124.440,52.733" colourspace="DeviceGray" ncolour="0" size="9.840">费</text>
+                <text font="Times New Roman" bbox="124.460,42.155,130.010,51.995" colourspace="DeviceGray" ncolour="0" size="9.840">=</text>
+                <text font="" bbox="129.980,42.893,139.820,52.733" colourspace="DeviceGray" ncolour="0" size="9.840">年</text>
+                <text font="" bbox="139.820,42.893,149.660,52.733" colourspace="DeviceGray" ncolour="0" size="9.840">交</text>
+                <text font="" bbox="149.660,42.893,159.500,52.733" colourspace="DeviceGray" ncolour="0" size="9.840">保</text>
+                <text font="" bbox="159.500,42.893,169.340,52.733" colourspace="DeviceGray" ncolour="0" size="9.840">费</text>
+                <text font="Times New Roman" bbox="169.340,42.155,174.260,51.995" colourspace="DeviceGray" ncolour="0" size="9.840">*</text>
+                <text font="Times New Roman" bbox="174.142,42.155,179.062,51.995" colourspace="DeviceGray" ncolour="0" size="9.840">0</text>
+                <text font="Times New Roman" bbox="179.062,42.155,181.522,51.995" colourspace="DeviceGray" ncolour="0" size="9.840">.</text>
+                <text font="Times New Roman" bbox="181.571,42.155,186.491,51.995" colourspace="DeviceGray" ncolour="0" size="9.840">0</text>
+                <text font="Times New Roman" bbox="186.491,42.155,191.411,51.995" colourspace="DeviceGray" ncolour="0" size="9.840">9</text>
+                <text font="" bbox="191.420,42.893,201.260,52.733" colourspace="DeviceGray" ncolour="0" size="9.840">，</text>
+                <text font="" bbox="201.260,42.893,211.100,52.733" colourspace="DeviceGray" ncolour="0" size="9.840">季</text>
+                <text font="" bbox="211.100,42.893,220.940,52.733" colourspace="DeviceGray" ncolour="0" size="9.840">交</text>
+                <text font="" bbox="220.940,42.893,230.780,52.733" colourspace="DeviceGray" ncolour="0" size="9.840">保</text>
+                <text font="" bbox="230.780,42.893,240.620,52.733" colourspace="DeviceGray" ncolour="0" size="9.840">费</text>
+                <text font="Times New Roman" bbox="240.650,42.155,246.200,51.995" colourspace="DeviceGray" ncolour="0" size="9.840">=</text>
+                <text font="" bbox="246.170,42.893,256.010,52.733" colourspace="DeviceGray" ncolour="0" size="9.840">年</text>
+                <text font="" bbox="256.010,42.893,265.850,52.733" colourspace="DeviceGray" ncolour="0" size="9.840">交</text>
+                <text font="" bbox="265.850,42.893,275.690,52.733" colourspace="DeviceGray" ncolour="0" size="9.840">保</text>
+                <text font="" bbox="275.690,42.893,285.530,52.733" colourspace="DeviceGray" ncolour="0" size="9.840">费</text>
+                <text font="Times New Roman" bbox="285.530,42.155,290.450,51.995" colourspace="DeviceGray" ncolour="0" size="9.840">*</text>
+                <text font="Times New Roman" bbox="290.332,42.155,295.252,51.995" colourspace="DeviceGray" ncolour="0" size="9.840">0</text>
+                <text font="Times New Roman" bbox="295.252,42.155,297.712,51.995" colourspace="DeviceGray" ncolour="0" size="9.840">.</text>
+                <text font="Times New Roman" bbox="297.761,42.155,302.681,51.995" colourspace="DeviceGray" ncolour="0" size="9.840">2</text>
+                <text font="Times New Roman" bbox="302.681,42.155,307.601,51.995" colourspace="DeviceGray" ncolour="0" size="9.840">6</text>
+                <text font="Times New Roman" bbox="307.601,42.155,312.521,51.995" colourspace="DeviceGray" ncolour="0" size="9.840">5</text>
+                <text font="" bbox="312.530,42.893,322.370,52.733" colourspace="DeviceGray" ncolour="0" size="9.840">，</text>
+                <text font="" bbox="322.370,42.893,332.210,52.733" colourspace="DeviceGray" ncolour="0" size="9.840">半</text>
+                <text font="" bbox="332.210,42.893,342.050,52.733" colourspace="DeviceGray" ncolour="0" size="9.840">年</text>
+                <text font="" bbox="342.050,42.893,351.890,52.733" colourspace="DeviceGray" ncolour="0" size="9.840">交</text>
+                <text font="" bbox="351.890,42.893,361.730,52.733" colourspace="DeviceGray" ncolour="0" size="9.840">保</text>
+                <text font="" bbox="361.730,42.893,371.570,52.733" colourspace="DeviceGray" ncolour="0" size="9.840">费</text>
+                <text font="Times New Roman" bbox="371.590,42.155,377.140,51.995" colourspace="DeviceGray" ncolour="0" size="9.840">=</text>
+                <text font="" bbox="377.110,42.893,386.950,52.733" colourspace="DeviceGray" ncolour="0" size="9.840">年</text>
+                <text font="" bbox="386.950,42.893,396.790,52.733" colourspace="DeviceGray" ncolour="0" size="9.840">交</text>
+                <text font="" bbox="396.790,42.893,406.630,52.733" colourspace="DeviceGray" ncolour="0" size="9.840">保</text>
+                <text font="" bbox="406.630,42.893,416.470,52.733" colourspace="DeviceGray" ncolour="0" size="9.840">费</text>
+                <text font="Times New Roman" bbox="416.500,42.155,421.420,51.995" colourspace="DeviceGray" ncolour="0" size="9.840">*</text>
+                <text font="Times New Roman" bbox="421.302,42.155,426.222,51.995" colourspace="DeviceGray" ncolour="0" size="9.840">0</text>
+                <text font="Times New Roman" bbox="426.222,42.155,428.682,51.995" colourspace="DeviceGray" ncolour="0" size="9.840">.</text>
+                <text font="Times New Roman" bbox="428.731,42.155,433.651,51.995" colourspace="DeviceGray" ncolour="0" size="9.840">5</text>
+                <text font="Times New Roman" bbox="433.651,42.155,438.571,51.995" colourspace="DeviceGray" ncolour="0" size="9.840">2</text>
+                <text font="" bbox="438.580,42.893,448.420,52.733" colourspace="DeviceGray" ncolour="0" size="9.840">。</text>
+                <text>
+                </text>
+            </textline>
+        </textbox>
+        <rect linewidth="0" bbox="55.680,66.360,56.520,726.120" />
+        <rect linewidth="0" bbox="134.540,66.360,135.380,725.280" />
+        <rect linewidth="0" bbox="537.840,66.360,538.680,725.280" />
+        <rect linewidth="0" bbox="336.190,66.360,337.030,706.800" />
+        <rect linewidth="0" bbox="235.370,66.360,236.210,688.900" />
+        <rect linewidth="0" bbox="437.020,66.360,437.860,688.900" />
+        <rect linewidth="0" bbox="56.520,725.280,538.680,726.120" />
+        <rect linewidth="0" bbox="56.520,706.800,538.680,707.640" />
+        <rect linewidth="0" bbox="56.520,688.900,538.680,689.740" />
+        <rect linewidth="0" bbox="56.520,666.220,538.680,667.060" />
+        <rect linewidth="0" bbox="56.520,654.460,538.680,655.300" />
+        <rect linewidth="0" bbox="56.520,642.700,538.680,643.540" />
+        <rect linewidth="0" bbox="56.520,630.940,538.680,631.780" />
+        <rect linewidth="0" bbox="56.520,619.180,538.680,620.020" />
+        <rect linewidth="0" bbox="56.520,607.420,538.680,608.260" />
+        <rect linewidth="0" bbox="56.520,595.660,538.680,596.500" />
+        <rect linewidth="0" bbox="56.520,583.900,538.680,584.740" />
+        <rect linewidth="0" bbox="56.520,572.140,538.680,572.980" />
+        <rect linewidth="0" bbox="56.520,560.380,538.680,561.220" />
+        <rect linewidth="0" bbox="56.520,548.590,538.680,549.430" />
+        <rect linewidth="0" bbox="56.520,536.830,538.680,537.670" />
+        <rect linewidth="0" bbox="56.520,525.070,538.680,525.910" />
+        <rect linewidth="0" bbox="56.520,513.310,538.680,514.150" />
+        <rect linewidth="0" bbox="56.520,501.550,538.680,502.390" />
+        <rect linewidth="0" bbox="56.520,489.790,538.680,490.630" />
+        <rect linewidth="0" bbox="56.520,478.030,538.680,478.870" />
+        <rect linewidth="0" bbox="56.520,466.270,538.680,467.110" />
+        <rect linewidth="0" bbox="56.520,454.510,538.680,455.350" />
+        <rect linewidth="0" bbox="56.520,442.750,538.680,443.590" />
+        <rect linewidth="0" bbox="56.520,430.990,538.680,431.830" />
+        <rect linewidth="0" bbox="56.520,419.230,538.680,420.070" />
+        <rect linewidth="0" bbox="56.520,407.470,538.680,408.310" />
+        <rect linewidth="0" bbox="56.520,395.690,538.680,396.530" />
+        <rect linewidth="0" bbox="56.520,383.930,538.680,384.770" />
+        <rect linewidth="0" bbox="56.520,372.170,538.680,373.010" />
+        <rect linewidth="0" bbox="56.520,360.410,538.680,361.250" />
+        <rect linewidth="0" bbox="56.520,348.650,538.680,349.490" />
+        <rect linewidth="0" bbox="56.520,336.890,538.680,337.730" />
+        <rect linewidth="0" bbox="56.520,325.130,538.680,325.970" />
+        <rect linewidth="0" bbox="56.520,313.370,538.680,314.210" />
+        <rect linewidth="0" bbox="56.520,301.610,538.680,302.450" />
+        <rect linewidth="0" bbox="56.520,289.850,538.680,290.690" />
+        <rect linewidth="0" bbox="56.520,278.090,538.680,278.930" />
+        <rect linewidth="0" bbox="56.520,266.330,538.680,267.170" />
+        <rect linewidth="0" bbox="56.520,254.540,538.680,255.404" />
+        <rect linewidth="0" bbox="56.520,242.780,538.680,243.620" />
+        <rect linewidth="0" bbox="56.520,231.020,538.680,231.860" />
+        <rect linewidth="0" bbox="56.520,219.260,538.680,220.100" />
+        <rect linewidth="0" bbox="56.520,207.500,538.680,208.340" />
+        <rect linewidth="0" bbox="56.520,195.740,538.680,196.580" />
+        <rect linewidth="0" bbox="56.520,183.980,538.680,184.820" />
+        <rect linewidth="0" bbox="56.520,172.220,538.680,173.060" />
+        <rect linewidth="0" bbox="56.520,160.460,538.680,161.300" />
+        <rect linewidth="0" bbox="56.520,148.700,538.680,149.540" />
+        <rect linewidth="0" bbox="56.520,136.940,538.680,137.780" />
+        <rect linewidth="0" bbox="56.520,125.180,538.680,126.020" />
+        <rect linewidth="0" bbox="56.520,113.420,538.680,114.260" />
+        <rect linewidth="0" bbox="56.520,101.640,538.680,102.480" />
+        <rect linewidth="0" bbox="56.520,89.880,538.680,90.720" />
+        <rect linewidth="0" bbox="56.520,78.120,538.680,78.960" />
+        <rect linewidth="0" bbox="56.520,66.360,538.680,67.200" />
+        <curve linewidth="0" bbox="56.100,666.640,134.960,689.320" pts="56.100,689.320,56.340,689.320,134.960,666.640,134.960,666.640,134.720,666.640,56.100,689.320"/>
+        <layout>
+            <textgroup bbox="57.720,42.155,507.940,783.856">
+                <textgroup bbox="57.720,667.128,507.940,783.856">
+                    <textbox id="0" bbox="119.900,745.947,475.100,783.856" />
+                    <textgroup bbox="57.720,667.128,507.940,721.148">
+                        <textgroup bbox="57.720,667.128,125.520,720.308">
+                            <textgroup bbox="77.520,693.288,113.400,720.308">
+                                <textbox id="1" bbox="77.520,711.428,113.400,720.308" />
+                                <textbox id="2" bbox="86.520,693.288,104.400,702.168" />
+                            </textgroup>
+                            <textbox id="3" bbox="57.720,667.128,125.520,687.648" />
+                        </textgroup>
+                        <textgroup bbox="167.420,672.582,507.940,721.148">
+                            <textgroup bbox="226.850,693.768,446.380,721.148">
+                                <textbox id="4" bbox="327.670,711.602,345.430,721.148" />
+                                <textgroup bbox="226.850,693.768,446.380,702.648">
+                                    <textbox id="5" bbox="226.850,693.768,244.730,702.648" />
+                                    <textbox id="6" bbox="428.500,693.768,446.380,702.648" />
+                                </textgroup>
+                            </textgroup>
+                            <textgroup bbox="167.420,672.582,507.940,682.128">
+                                <textgroup bbox="167.420,672.582,404.830,682.128">
+                                    <textbox id="7" bbox="167.420,672.582,203.180,682.128" />
+                                    <textgroup bbox="266.090,672.582,404.830,682.128">
+                                        <textbox id="8" bbox="266.090,672.582,306.290,682.128" />
+                                        <textbox id="9" bbox="369.070,672.582,404.830,682.128" />
+                                    </textgroup>
+                                </textgroup>
+                                <textbox id="10" bbox="467.740,672.582,507.940,682.128" />
+                            </textgroup>
+                        </textgroup>
+                    </textgroup>
+                </textgroup>
+                <textgroup bbox="57.840,42.155,494.860,664.782">
+                    <textgroup bbox="91.440,67.682,494.860,664.782">
+                        <textgroup bbox="91.440,67.682,192.380,664.782">
+                            <textbox id="11" bbox="91.440,67.682,100.320,664.662" />
+                            <textbox id="12" bbox="179.060,67.802,192.380,664.782" />
+                        </textgroup>
+                        <textgroup bbox="279.890,67.802,494.860,664.782">
+                            <textgroup bbox="279.890,67.802,394.030,664.782">
+                                <textbox id="13" bbox="279.890,67.802,293.210,664.782" />
+                                <textbox id="14" bbox="380.710,67.802,394.030,664.782" />
+                            </textgroup>
+                            <textbox id="15" bbox="481.540,67.802,494.860,664.782" />
+                        </textgroup>
+                    </textgroup>
+                    <textbox id="16" bbox="57.840,42.155,448.420,52.733" />
+                </textgroup>
+            </textgroup>
+        </layout>
+    </page>
+</pages>
